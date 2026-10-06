@@ -1,0 +1,7 @@
+
+    FAIL = {                     # ID fail kursus di Google Drive
+        "data/myprojek_dummy.csv": "1RxOAkFkRFnZdJfMi45gYh9pn5fw_xZwd",
+        "data/kementerian.csv":    "12_eVvQXzpFZKiqRSklnSyvm1tPqad8B0",
+        "utils_projek.py":         "1laVR26-9Ipoi7Jz9B9MXOyEr8BSm_110",
+    }
+    
