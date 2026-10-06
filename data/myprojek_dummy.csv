@@ -1,0 +1,509 @@
+id_projek,nama_projek,kategori,kementerian,negeri,kos_diluluskan,tarikh_mula,tarikh_siap_jadual,peratus_jadual,peratus_fizikal,peratus_kewangan,status,kos_semasa
+MP2022-00000,Projek Kemudahan Awam 0,Kemudahan Awam,KDN,Sabah,"RM2,071,000.00",2023-06-01,2025-01-19,100.0,88.8,89.1,Dalam Pelaksanaan,1845300.0
+MP2022-00001,Projek Sekolah 1,Sekolah,KPKT,Sarawak,"RM6,088,000.00",2024-09-18,2027-05-27,66.3,54.2,57.6,Dalam Pelaksanaan,3506700.0
+MP2022-00002,Projek Jalan & Jambatan 2,Jalan & Jambatan,MOF,Sabah,"RM1,300,000.00",2022-01-29,2024-06-10,100.0,59.9,47.6,Lewat,618800.0
+MP2022-00003,Projek Bekalan Air 3,Bekalan Air,KKDW,Sabah,"RM1,336,000.00",2022-06-12,2023-08-11,100.0,90.5,88.0,Dalam Pelaksanaan,1175700.0
+MP2022-00004,Projek Klinik/Hospital 4,Klinik/Hospital,KKDW,Perak,"RM8,640,000.00",2022-11-30,2024-11-15,100.0,83.3,80.3,Dalam Pelaksanaan,6937900.0
+MP2022-00005,Projek Klinik/Hospital 5,Klinik/Hospital,KPKT,Kedah,"RM2,152,000.00",2022-04-21,2025-01-17,100.0,73.2,59.8,Lewat,1286900.0
+MP2022-00006,Projek Jalan & Jambatan 6,Jalan & Jambatan,KPWKM,KELANTAN,"RM2,097,000.00",2022-01-08,2024-11-26,100.0,70.2,51.8,Lewat,1086200.0
+MP2022-00007,Projek Klinik/Hospital 7,Klinik/Hospital,KPWKM,Negeri Sembilan,"RM23,627,000.00",2024-07-04,2025-10-08,100.0,67.9,64.5,Lewat,15239400.0
+MP2022-00008,Projek Bekalan Air 8,Bekalan Air,KPM,Perak,"RM4,248,000.00",2022-08-12,2023-11-18,100.0,89.6,73.4,Dalam Pelaksanaan,3118000.0
+MP2022-00009,Projek Klinik/Hospital 9,Klinik/Hospital,KKDW,Pahang,"RM3,836,000.00",2023-09-15,2024-05-04,100.0,92.0,80.8,Dalam Pelaksanaan,3099500.0
+MP2022-00010,Projek Perumahan 10,Perumahan,KKDW,WP Kuala Lumpur ,"RM3,247,000.00",2024-06-03,2026-11-05,85.5,77.9,70.0,Dalam Pelaksanaan,2272900.0
+MP2022-00011,Projek Perumahan 11,Perumahan,KKDW,Pahang,"RM5,803,000.00",2024-01-10,2025-03-31,100.0,90.8,90.0,Dalam Pelaksanaan,5222700.0
+MP2022-00012,Projek Perumahan 12,Perumahan,KPKT,Sarawak,"RM2,112,000.00",2022-02-12,2023-07-04,100.0,82.1,82.6,Dalam Pelaksanaan,1744500.0
+MP2022-00013,Projek Kemudahan Awam 13,Kemudahan Awam,KKDW,WP Kuala Lumpur,"RM4,204,000.00",2022-12-21,2024-06-06,100.0,83.5,75.2,Dalam Pelaksanaan,3161400.0
+MP2022-00014,Projek Perumahan 14,Perumahan,KKR,Pulau Pinang,"RM10,618,000.00",2022-02-20,2022-11-17,100.0,84.1,75.4,Dalam Pelaksanaan,8006000.0
+MP2022-00015,Projek Sekolah 15,Sekolah,MOF,Selangor,"RM2,992,000.00",2024-07-22,2025-04-23,100.0,91.0,87.2,Dalam Pelaksanaan,2609000.0
+MP2022-00016,Projek Kemudahan Awam 16,Kemudahan Awam,KKM,Selangor,"RM469,000.00",2023-04-09,2025-03-24,100.0,92.8,90.8,Dalam Pelaksanaan,425900.0
+MP2022-00017,Projek Bekalan Air 17,Bekalan Air,KPM,Melaka,"RM2,215,000.00",2024-09-03,2026-04-01,100.0,96.9,96.9,Dalam Pelaksanaan,2146300.0
+MP2022-00018,Projek Jalan & Jambatan 18,Jalan & Jambatan,KPM,Negeri Sembilan,"RM7,971,000.00",2023-02-05,2024-06-01,100.0,93.1,83.0,Dalam Pelaksanaan,6615900.0
+MP2022-00019,Projek Sekolah 19,Sekolah,KDN,Pulau Pinang,"RM10,950,000.00",2023-07-13,2026-01-12,100.0,77.1,65.1,Lewat,7128400.0
+MP2022-00020,Projek Jalan & Jambatan 20,Jalan & Jambatan,KKDW,Johor,"RM5,538,000.00",2022-03-04,2023-03-17,100.0,96.4,84.1,Dalam Pelaksanaan,4657500.0
+MP2022-00021,Projek Kemudahan Awam 21,Kemudahan Awam,KPKT,Melaka,"RM14,428,000.00",2024-09-13,2026-03-27,100.0,92.1,80.5,Dalam Pelaksanaan,11614500.0
+MP2022-00022,Projek Perumahan 22,Perumahan,KKDW,Kedah,"RM1,566,000.00",2024-05-08,2025-08-21,100.0,94.5,89.8,Dalam Pelaksanaan,1406300.0
+MP2022-00023,Projek Kemudahan Awam 23,Kemudahan Awam,KKM,Perak,"RM12,622,000.00",2023-05-21,2025-02-13,100.0,85.5,68.0,Dalam Pelaksanaan,8583000.0
+MP2022-00024,Projek Sekolah 24,Sekolah,KPKT,Sabah,"RM4,822,000.00",2022-08-21,2023-06-18,100.0,85.1,83.2,Dalam Pelaksanaan,4011900.0
+MP2022-00025,Projek Bekalan Air 25,Bekalan Air,KPWKM,Pulau Pinang,"RM7,336,000.00",2023-03-16,2026-03-18,100.0,17.3,5.9,Lewat,432800.0
+MP2022-00026,Projek Bekalan Air 26,Bekalan Air,MOF,Sarawak,"RM304,000.00",13/03/2023,2024-06-04,100.0,80.2,74.7,Dalam Pelaksanaan,227100.0
+MP2022-00027,Projek Perumahan 27,Perumahan,KDN,Pahang,"RM8,915,000.00",2024-02-25,2025-03-09,100.0,100.0,98.8,Siap,8808000.0
+MP2022-00028,Projek Jalan & Jambatan 28,Jalan & Jambatan,,Kedah,"RM4,924,000.00",2022-10-26,2025-01-26,100.0,46.5,42.4,Lewat,2087800.0
+MP2022-00029,Projek Bekalan Air 29,Bekalan Air,KKDW,Perak,"RM22,242,000.00",2023-10-07,2025-08-17,100.0,88.5,77.3,Dalam Pelaksanaan,17193100.0
+MP2022-00030,Projek Bekalan Air 30,Bekalan Air,KKM,Terengganu,"RM4,730,000.00",2024-03-20,2026-08-02,96.2,93.8,79.3,Dalam Pelaksanaan,3750900.0
+MP2022-00031,Projek Perumahan 31,Perumahan,,Perlis,"RM1,663,000.00",2022-07-20,2025-07-12,100.0,,88.2,Dalam Pelaksanaan,1466800.0
+MP2022-00032,Projek Bekalan Air 32,Bekalan Air,KPKT,Sarawak,"RM1,938,000.00",2024-02-17,2026-05-18,100.0,75.9,85.6,Lewat,1658900.0
+MP2022-00033,Projek Klinik/Hospital 33,Klinik/Hospital,KPM,Kedah,"RM5,752,000.00",2023-05-30,2025-02-24,100.0,81.5,69.1,Dalam Pelaksanaan,3974600.0
+MP2022-00034,Projek Klinik/Hospital 34,Klinik/Hospital,KPWKM,Melaka,"RM5,267,000.00",2022-07-24,2023-11-12,100.0,75.7,80.5,Lewat,4239900.0
+MP2022-00035,Projek Klinik/Hospital 35,Klinik/Hospital,KKR,Melaka,"RM2,256,000.00",2022-01-17,2024-01-11,100.0,88.2,68.7,Dalam Pelaksanaan,1549900.0
+MP2022-00036,Projek Jalan & Jambatan 36,Jalan & Jambatan,KPWKM,Melaka,"RM1,527,000.00",2024-06-03,2027-03-18,74.4,,46.8,Dalam Pelaksanaan,714600.0
+MP2022-00037,Projek Sekolah 37,Sekolah,KKDW,Pulau Pinang,"RM15,626,000.00",2024-05-25,2026-04-07,100.0,80.3,71.5,Dalam Pelaksanaan,11172600.0
+MP2022-00038,Projek Jalan & Jambatan 38,Jalan & Jambatan,MOF,Terengganu,"RM3,221,000.00",2022-03-05,2024-01-22,100.0,99.8,85.8,Dalam Pelaksanaan,2763600.0
+MP2022-00039,Projek Sekolah 39,Sekolah,KPKT,Pulau Pinang,"RM3,754,000.00",2023-06-27,2024-04-08,100.0,88.3,82.0,Dalam Pelaksanaan,3078300.0
+MP2022-00040,Projek Kemudahan Awam 40,Kemudahan Awam,MOF,Johor,"RM2,471,000.00",2022-04-04,2023-11-09,100.0,87.3,80.9,Dalam Pelaksanaan,1999000.0
+MP2022-00041,Projek Bekalan Air 41,Bekalan Air,KKR,WP Kuala Lumpur,"RM14,056,000.00",2022-02-16,2024-06-03,100.0,76.7,71.0,Lewat,9979800.0
+MP2022-00042,Projek Jalan & Jambatan 42,Jalan & Jambatan,KPKT,Kedah,"RM10,896,000.00",2022-02-27,2024-09-19,100.0,84.8,76.1,Dalam Pelaksanaan,8291900.0
+MP2022-00043,Projek Klinik/Hospital 43,Klinik/Hospital,KDN,Johor,"RM1,592,000.00",2024-07-26,2027-05-11,69.1,55.9,47.4,Dalam Pelaksanaan,754600.0
+MP2022-00044,Projek Sekolah 44,Sekolah,KDN,Kedah ,"RM3,727,000.00",2023-05-22,2025-07-07,100.0,91.1,81.8,Dalam Pelaksanaan,3048700.0
+MP2022-00045,Projek Bekalan Air 45,Bekalan Air,KDN,Terengganu,"RM1,741,000.00",2024-09-26,2027-07-25,62.2,61.2,73.2,Dalam Pelaksanaan,1274400.0
+MP2022-00046,Projek Perumahan 46,Perumahan,KPM,Sabah,"RM21,187,000.00",2024-02-12,2024-10-06,100.0,79.2,71.8,Lewat,15212300.0
+MP2022-00047,Projek Jalan & Jambatan 47,Jalan & Jambatan,KPKT,Kedah,"RM5,950,000.00",08/01/2024,2025-12-27,100.0,88.6,90.2,Dalam Pelaksanaan,5366900.0
+MP2022-00048,Projek Klinik/Hospital 48,Klinik/Hospital,KKR,Terengganu,"RM3,103,000.00",2022-04-17,2023-06-08,100.0,93.6,69.3,Dalam Pelaksanaan,2150400.0
+MP2022-00049,Projek Klinik/Hospital 49,Klinik/Hospital,KKM,Sarawak,"RM2,947,000.00",2023-03-08,2024-07-24,100.0,59.0,46.3,Lewat,1364500.0
+MP2022-00050,Projek Kemudahan Awam 50,Kemudahan Awam,KPWKM,Terengganu,"RM6,516,000.00",18/07/2023,2026-06-02,100.0,88.7,75.1,Dalam Pelaksanaan,4893500.0
+MP2022-00051,Projek Klinik/Hospital 51,Klinik/Hospital,KKR,Perak,"RM3,200,000.00",2023-08-15,2025-10-24,100.0,80.9,70.1,Dalam Pelaksanaan,2243200.0
+MP2022-00052,Projek Jalan & Jambatan 52,Jalan & Jambatan,KPWKM,Pahang,"RM16,005,000.00",2022-05-19,2023-12-28,100.0,82.4,70.4,Dalam Pelaksanaan,11267500.0
+MP2022-00053,Projek Sekolah 53,Sekolah,KDN,WP Kuala Lumpur,"RM1,735,000.00",2022-01-11,2024-11-25,100.0,91.3,88.7,Dalam Pelaksanaan,1538900.0
+MP2022-00054,Projek Klinik/Hospital 54,Klinik/Hospital,KDN,Kedah ,"RM1,314,000.00",2023-09-05,2025-03-03,100.0,92.7,80.0,Dalam Pelaksanaan,1051200.0
+MP2022-00055,Projek Bekalan Air 55,Bekalan Air,MOF,KELANTAN,"RM14,210,000.00",2022-04-19,2025-04-02,100.0,88.3,75.2,Dalam Pelaksanaan,10685900.0
+MP2022-00056,Projek Sekolah 56,Sekolah,KPWKM,Pahang,"RM2,722,000.00",2024-07-25,2025-10-17,100.0,71.8,62.8,Lewat,1709400.0
+MP2022-00057,Projek Klinik/Hospital 57,Klinik/Hospital,KPWKM,Johor,"RM14,330,000.00",2022-11-27,2024-02-10,100.0,95.1,82.5,Dalam Pelaksanaan,11822200.0
+MP2022-00058,Projek Bekalan Air 58,Bekalan Air,KKR,Pulau Pinang,"RM8,814,000.00",2024-07-16,2026-08-26,92.6,90.9,76.5,Dalam Pelaksanaan,6742700.0
+MP2022-00059,Projek Sekolah 59,Sekolah,KPKT,PERLIS,"RM1,176,000.00",2023-02-16,2025-12-22,100.0,84.5,76.4,Dalam Pelaksanaan,898500.0
+MP2022-00060,Projek Kemudahan Awam 60,Kemudahan Awam,KDN,Perak,"RM2,307,000.00",2023-02-27,2023-11-06,100.0,78.1,76.8,Lewat,1771800.0
+MP2022-00061,Projek Sekolah 61,Sekolah,KPM,Sarawak,"RM4,174,000.00",2024-01-26,2026-05-26,100.0,75.6,62.7,Lewat,2617100.0
+MP2022-00062,Projek Kemudahan Awam 62,Kemudahan Awam,KPM,Perlis,"RM3,274,000.00",2024-06-18,2025-12-30,100.0,75.4,58.2,Lewat,1905500.0
+MP2022-00063,Projek Kemudahan Awam 63,Kemudahan Awam,KPKT,Selangor,"RM5,244,000.00",2022-06-20,2025-02-26,100.0,100.0,99.2,Siap,5202000.0
+MP2022-00064,Projek Kemudahan Awam 64,Kemudahan Awam,KDN,WP Kuala Lumpur,"RM2,301,000.00",2023-03-19,2025-09-01,100.0,83.5,68.5,Dalam Pelaksanaan,1576200.0
+MP2022-00065,Projek Perumahan 65,Perumahan,KPM,Terengganu,"RM3,699,000.00",2022-04-27,2023-03-27,100.0,78.7,69.1,Lewat,2556000.0
+MP2022-00066,Projek Bekalan Air 66,Bekalan Air,KDN,Pulau Pinang,"RM9,834,000.00",2023-12-02,2026-02-06,100.0,68.0,56.3,Lewat,5536500.0
+MP2022-00067,Projek Bekalan Air 67,Bekalan Air,MOF,SABAH,"RM13,252,000.00",2023-11-29,2026-11-11,87.6,65.9,52.8,Lewat,6997100.0
+MP2022-00068,Projek Sekolah 68,Sekolah,KPM,Pahang,"RM1,961,000.00",2022-05-22,2023-04-03,100.0,91.3,89.7,Dalam Pelaksanaan,1759000.0
+MP2022-00069,Projek Klinik/Hospital 69,Klinik/Hospital,KKR,WP Kuala Lumpur,"RM3,240,000.00",2024-06-07,2026-10-28,86.3,87.1,77.3,Dalam Pelaksanaan,2504500.0
+MP2022-00070,Projek Klinik/Hospital 70,Klinik/Hospital,KPM,Melaka,"RM3,562,000.00",2024-09-07,2025-06-14,100.0,69.0,54.9,Lewat,1955500.0
+MP2022-00071,Projek Kemudahan Awam 71,Kemudahan Awam,KKR,Johor,"RM1,185,000.00",2024-05-29,2025-04-27,100.0,73.8,57.2,Lewat,677800.0
+MP2022-00072,Projek Perumahan 72,Perumahan,KPWKM,Pahang,"RM9,288,000.00",2024-03-13,2025-05-06,100.0,100.0,86.7,Siap,8052700.0
+MP2022-00073,Projek Bekalan Air 73,Bekalan Air,KKR,Negeri Sembilan,"RM6,637,000.00",2024-01-12,2025-11-18,100.0,88.9,86.5,Dalam Pelaksanaan,5741000.0
+MP2022-00074,Projek Bekalan Air 74,Bekalan Air,KPKT,Perlis,"RM6,384,000.00",2022-10-06,2025-03-25,100.0,83.9,74.7,Dalam Pelaksanaan,4768800.0
+MP2022-00075,Projek Klinik/Hospital 75,Klinik/Hospital,KKDW,Kedah,"RM3,616,000.00",2024-09-10,2025-06-19,100.0,85.1,78.6,Dalam Pelaksanaan,2842200.0
+MP2022-00076,Projek Klinik/Hospital 76,Klinik/Hospital,MOF,Selangor,"RM8,739,000.00",2022-11-04,2023-06-08,100.0,100.0,91.6,Siap,8004900.0
+MP2022-00077,Projek Kemudahan Awam 77,Kemudahan Awam,KPKT,Sarawak,"RM9,503,000.00",2023-06-07,2025-09-30,100.0,59.0,44.3,Lewat,4209800.0
+MP2022-00078,Projek Jalan & Jambatan 78,Jalan & Jambatan,KPM,WP Kuala Lumpur,"RM11,342,000.00",2023-12-04,2025-03-25,100.0,81.7,82.1,Dalam Pelaksanaan,9311800.0
+MP2022-00079,Projek Sekolah 79,Sekolah,KKM,Perak,"RM3,426,000.00",2024-02-14,2026-02-10,100.0,46.3,35.1,Lewat,1202500.0
+MP2022-00080,Projek Klinik/Hospital 80,Klinik/Hospital,KDN,Melaka,"RM5,468,000.00",2022-11-23,2024-06-15,100.0,70.1,59.4,Lewat,3248000.0
+MP2022-00081,Projek Perumahan 81,Perumahan,KKM,Perlis,"RM2,814,000.00",2023-02-22,2025-02-03,100.0,88.2,86.0,Dalam Pelaksanaan,2420000.0
+MP2022-00082,Projek Klinik/Hospital 82,Klinik/Hospital,MOF,Johor,"RM2,986,000.00",2023-04-21,2024-08-17,100.0,87.5,72.7,Dalam Pelaksanaan,2170800.0
+MP2022-00083,Projek Sekolah 83,Sekolah,KPM,Negeri Sembilan,"RM9,658,000.00",2022-12-20,2025-08-05,100.0,90.6,86.1,Dalam Pelaksanaan,8315500.0
+MP2022-00084,Projek Jalan & Jambatan 84,Jalan & Jambatan,KKM,Melaka,"RM4,191,000.00",2022-11-24,2023-09-06,100.0,83.0,74.7,Dalam Pelaksanaan,3130700.0
+MP2022-00085,Projek Sekolah 85,Sekolah,KKDW,Terengganu,"RM3,477,000.00",2024-06-29,2026-12-04,82.3,57.4,65.0,Lewat,2260000.0
+MP2022-00086,Projek Jalan & Jambatan 86,Jalan & Jambatan,KPM,Melaka,"RM6,871,000.00",2022-08-31,2024-03-26,100.0,85.9,71.1,Dalam Pelaksanaan,4885300.0
+MP2022-00087,Projek Perumahan 87,Perumahan,KKR,Perak,"RM7,268,000.00",2023-03-07,2023-11-26,100.0,92.4,86.1,Dalam Pelaksanaan,6257700.0
+MP2022-00088,Projek Klinik/Hospital 88,Klinik/Hospital,KPM,Selangor,"RM2,025,000.00",2022-05-29,2025-03-03,100.0,79.4,73.3,Lewat,1484300.0
+MP2022-00089,Projek Sekolah 89,Sekolah,MOF,Johor,"RM2,229,000.00",2024-01-17,2026-06-16,100.0,90.9,74.1,Dalam Pelaksanaan,1651700.0
+MP2022-00090,Projek Bekalan Air 90,Bekalan Air,KPM,KELANTAN,"RM7,580,000.00",2024-03-16,2025-01-31,100.0,95.9,99.5,Dalam Pelaksanaan,7542100.0
+MP2022-00091,Projek Klinik/Hospital 91,Klinik/Hospital,MOF,Kelantan,"RM6,411,000.00",2023-05-13,2025-03-21,100.0,100.0,86.7,Siap,5558300.0
+MP2022-00092,Projek Klinik/Hospital 92,Klinik/Hospital,KKR,Johor,"RM3,306,000.00",03/03/2022,2023-01-20,100.0,92.1,77.7,Dalam Pelaksanaan,2568800.0
+MP2022-00093,Projek Bekalan Air 93,Bekalan Air,KKM,PULAU PINANG,"RM11,714,000.00",2022-04-23,2023-04-11,100.0,84.3,88.3,Dalam Pelaksanaan,10343500.0
+MP2022-00094,Projek Bekalan Air 94,Bekalan Air,KPM,Melaka,"RM3,652,000.00",2022-09-11,2023-12-07,100.0,90.7,81.1,Dalam Pelaksanaan,2961800.0
+MP2022-00095,Projek Sekolah 95,Sekolah,KPWKM,Pulau Pinang,"RM702,000.00",2022-05-07,2023-09-18,100.0,78.2,72.5,Lewat,509000.0
+MP2022-00096,Projek Jalan & Jambatan 96,Jalan & Jambatan,KPM,Sarawak,"RM1,951,000.00",2022-08-14,2025-08-03,100.0,82.2,80.5,Dalam Pelaksanaan,1570600.0
+MP2022-00097,Projek Perumahan 97,Perumahan,KKM,Sarawak,"RM1,059,000.00",2023-05-26,2025-03-04,100.0,100.0,99.8,Siap,1056900.0
+MP2022-00098,Projek Kemudahan Awam 98,Kemudahan Awam,KKM,Negeri Sembilan,"RM11,196,000.00",2023-08-08,2025-02-23,100.0,75.8,63.4,Lewat,7098300.0
+MP2022-00099,Projek Bekalan Air 99,Bekalan Air,KPM,Kelantan,"RM6,291,000.00",2023-12-09,2026-08-05,96.3,74.8,59.7,Lewat,3755700.0
+MP2022-00100,Projek Klinik/Hospital 100,Klinik/Hospital,KPKT,WP Kuala Lumpur,"RM4,443,000.00",2024-07-21,2025-02-20,100.0,84.6,83.4,Dalam Pelaksanaan,3705500.0
+MP2022-00101,Projek Bekalan Air 101,Bekalan Air,KKR,Kedah,"RM496,000.00",2024-01-13,2026-09-30,90.7,63.5,61.2,Lewat,303600.0
+MP2022-00102,Projek Jalan & Jambatan 102,Jalan & Jambatan,KKDW,Sabah,"RM1,057,000.00",2023-04-19,2023-11-18,100.0,91.2,78.2,Dalam Pelaksanaan,826600.0
+MP2022-00103,Projek Klinik/Hospital 103,Klinik/Hospital,KKDW,Perak,"RM3,486,000.00",2022-12-02,2023-09-01,100.0,52.1,29.4,Lewat,1024900.0
+MP2022-00104,Projek Klinik/Hospital 104,Klinik/Hospital,KPKT,WP Kuala Lumpur ,"RM804,000.00",2024-05-19,2024-12-15,100.0,97.3,98.7,Dalam Pelaksanaan,793500.0
+MP2022-00105,Projek Klinik/Hospital 105,Klinik/Hospital,KKR,Kedah,"RM9,319,000.00",2022-01-10,2023-08-19,100.0,83.9,84.7,Dalam Pelaksanaan,7893200.0
+MP2022-00106,Projek Perumahan 106,Perumahan,KPWKM,Pahang,"RM3,639,000.00",2024-01-02,2026-12-17,84.3,77.7,76.3,Dalam Pelaksanaan,2776600.0
+MP2022-00107,Projek Klinik/Hospital 107,Klinik/Hospital,KDN,Sabah,"RM3,510,000.00",2023-06-18,2026-01-29,100.0,90.4,88.9,Dalam Pelaksanaan,3120400.0
+MP2022-00108,Projek Kemudahan Awam 108,Kemudahan Awam,KPKT,Pahang,"RM3,771,000.00",2023-05-08,2024-01-08,100.0,67.6,52.5,Lewat,1979800.0
+MP2022-00109,Projek Klinik/Hospital 109,Klinik/Hospital,KDN,Selangor,"RM1,698,000.00",2022-07-09,2024-07-12,100.0,70.1,68.3,Lewat,1159700.0
+MP2022-00110,Projek Jalan & Jambatan 110,Jalan & Jambatan,KKM,Terengganu,"RM1,562,000.00",2022-10-12,2025-08-19,100.0,81.0,59.3,Dalam Pelaksanaan,926300.0
+MP2022-00111,Projek Perumahan 111,Perumahan,MOF,Pahang,"RM723,000.00",2022-11-17,2025-07-10,100.0,86.0,75.1,Dalam Pelaksanaan,543000.0
+MP2022-00112,Projek Perumahan 112,Perumahan,KPWKM,Pahang,"RM4,078,000.00",2022-02-11,2023-04-26,100.0,95.4,81.1,Dalam Pelaksanaan,3307300.0
+MP2022-00113,Projek Bekalan Air 113,Bekalan Air,MOF,Johor,"RM5,755,000.00",2023-07-21,2025-07-19,100.0,96.0,84.1,Dalam Pelaksanaan,4840000.0
+MP2022-00114,Projek Kemudahan Awam 114,Kemudahan Awam,KKDW,Sarawak,"RM3,224,000.00",2023-07-24,2024-12-09,100.0,,97.9,Dalam Pelaksanaan,3156300.0
+MP2022-00115,Projek Klinik/Hospital 115,Klinik/Hospital,KPKT,WP Kuala Lumpur,"RM3,096,000.00",2023-01-27,2024-02-16,100.0,90.0,90.5,Dalam Pelaksanaan,2801900.0
+MP2022-00116,Projek Perumahan 116,Perumahan,MOF,Kelantan,"RM1,713,000.00",2024-06-20,2027-03-08,74.7,57.9,44.1,Dalam Pelaksanaan,755400.0
+MP2022-00117,Projek Jalan & Jambatan 117,Jalan & Jambatan,KDN,WP Kuala Lumpur,"RM5,003,000.00",2023-04-05,2025-01-06,100.0,76.4,60.9,Lewat,3046800.0
+MP2022-00118,Projek Jalan & Jambatan 118,Jalan & Jambatan,KKM,Negeri Sembilan,"RM440,000.00",2022-03-14,2023-11-21,100.0,92.8,82.1,Dalam Pelaksanaan,361200.0
+MP2022-00119,Projek Perumahan 119,Perumahan,KPWKM,Negeri Sembilan,"RM1,478,000.00",2022-02-20,2023-12-05,100.0,83.0,74.9,Dalam Pelaksanaan,1107000.0
+MP2022-00120,Projek Kemudahan Awam 120,Kemudahan Awam,KDN,Kelantan,"RM2,208,000.00",2023-01-03,2024-01-12,100.0,,81.6,Dalam Pelaksanaan,1801700.0
+MP2022-00121,Projek Bekalan Air 121,Bekalan Air,KPM,Sarawak,"RM2,527,000.00",2022-07-03,2025-03-31,100.0,79.1,69.7,Lewat,1761300.0
+MP2022-00122,Projek Perumahan 122,Perumahan,KKR,Terengganu,"RM4,858,000.00",2024-05-11,2026-05-10,100.0,97.5,97.8,Dalam Pelaksanaan,4751100.0
+MP2022-00123,Projek Sekolah 123,Sekolah,KKDW,Kelantan,"RM3,358,000.00",2024-04-21,2025-09-10,100.0,82.6,74.1,Dalam Pelaksanaan,2488300.0
+MP2022-00124,Projek Perumahan 124,Perumahan,KPWKM,NEGERI SEMBILAN,"RM4,592,000.00",2024-08-21,2026-08-21,92.9,86.6,78.5,Dalam Pelaksanaan,3604700.0
+MP2022-00125,Projek Klinik/Hospital 125,Klinik/Hospital,KKM,Selangor,"RM12,252,000.00",2023-05-27,2024-06-26,100.0,84.4,87.3,Dalam Pelaksanaan,10696000.0
+MP2022-00126,Projek Sekolah 126,Sekolah,KPWKM,Melaka,"RM13,727,000.00",2023-05-04,2025-01-21,100.0,99.8,100.0,Dalam Pelaksanaan,13727000.0
+MP2022-00127,Projek Jalan & Jambatan 127,Jalan & Jambatan,KPM,Kedah,"RM7,152,000.00",04/06/2024,2026-10-20,87.1,76.1,69.6,Dalam Pelaksanaan,4977800.0
+MP2022-00128,Projek Sekolah 128,Sekolah,KPKT,WP Kuala Lumpur,"RM12,283,000.00",2023-09-29,2026-04-28,100.0,92.5,97.1,Dalam Pelaksanaan,11926800.0
+MP2022-00129,Projek Kemudahan Awam 129,Kemudahan Awam,KDN,Sabah,"RM18,938,000.00",2024-05-07,2025-11-24,100.0,70.7,77.2,Lewat,14620100.0
+MP2022-00130,Projek Klinik/Hospital 130,Klinik/Hospital,KKR,WP Kuala Lumpur,"RM5,573,000.00",2022-07-14,2024-10-29,100.0,70.6,73.3,Lewat,4085000.0
+MP2022-00131,Projek Kemudahan Awam 131,Kemudahan Awam,KPWKM,Melaka,"RM1,134,000.00",2022-07-13,2024-03-29,100.0,93.2,84.0,Dalam Pelaksanaan,952600.0
+MP2022-00132,Projek Klinik/Hospital 132,Klinik/Hospital,KPKT,Perlis,"RM9,867,000.00",2022-02-26,2022-11-04,100.0,71.3,63.5,Lewat,6265500.0
+MP2022-00133,Projek Jalan & Jambatan 133,Jalan & Jambatan,KKM,Perlis,"RM1,631,000.00",2023-02-04,2026-01-17,100.0,89.0,80.5,Dalam Pelaksanaan,1313000.0
+MP2022-00134,Projek Sekolah 134,Sekolah,KPM,WP Kuala Lumpur,"RM21,331,000.00",2024-02-28,2026-11-03,87.1,76.8,58.3,Dalam Pelaksanaan,12436000.0
+MP2022-00135,Projek Klinik/Hospital 135,Klinik/Hospital,KKDW,Pulau Pinang,"RM18,860,000.00",2023-06-10,2025-08-18,100.0,88.2,76.9,Dalam Pelaksanaan,14503300.0
+MP2022-00136,Projek Perumahan 136,Perumahan,KPWKM,Perlis,"RM2,504,000.00",2023-07-03,2024-02-15,100.0,88.5,70.9,Dalam Pelaksanaan,1775300.0
+MP2022-00137,Projek Perumahan 137,Perumahan,KPM,Selangor,"RM1,484,000.00",2022-04-08,2024-06-14,100.0,90.8,81.6,Dalam Pelaksanaan,1210900.0
+MP2022-00138,Projek Perumahan 138,Perumahan,KPWKM,Terengganu,"RM2,148,000.00",2022-05-08,2023-06-10,100.0,89.7,75.0,Dalam Pelaksanaan,1611000.0
+MP2022-00139,Projek Sekolah 139,Sekolah,KKDW,Perak,"RM3,766,000.00",2022-03-27,2025-01-29,100.0,91.9,74.1,Dalam Pelaksanaan,2790600.0
+MP2022-00140,Projek Klinik/Hospital 140,Klinik/Hospital,KDN,Selangor ,"RM12,650,000.00",2023-01-03,2023-09-22,100.0,85.8,65.5,Dalam Pelaksanaan,8285800.0
+MP2022-00141,Projek Bekalan Air 141,Bekalan Air,KKM,Perlis,"RM1,313,000.00",2024-04-21,2026-08-07,95.5,87.1,80.4,Dalam Pelaksanaan,1055700.0
+MP2022-00142,Projek Bekalan Air 142,Bekalan Air,,Kelantan,"RM8,830,000.00",2024-01-10,2025-07-02,100.0,80.2,79.6,Dalam Pelaksanaan,7028700.0
+MP2022-00143,Projek Klinik/Hospital 143,Klinik/Hospital,KKR,Kelantan,"RM620,000.00",2024-04-06,2027-02-28,77.0,71.0,62.6,Dalam Pelaksanaan,388100.0
+MP2022-00144,Projek Sekolah 144,Sekolah,KPM,WP Kuala Lumpur,"RM11,903,000.00",25/10/2022,2025-04-12,100.0,70.1,53.7,Lewat,6391900.0
+MP2022-00145,Projek Perumahan 145,Perumahan,KDN,Pahang,"RM3,776,000.00",2023-01-19,2025-02-19,100.0,96.4,78.6,Dalam Pelaksanaan,2967900.0
+MP2022-00146,Projek Bekalan Air 146,Bekalan Air,MOF,Pulau Pinang,"RM4,779,000.00",2024-08-16,2026-06-05,100.0,84.3,75.5,Dalam Pelaksanaan,3608100.0
+MP2022-00147,Projek Kemudahan Awam 147,Kemudahan Awam,MOF,Perak,"RM3,629,000.00",2023-12-08,2025-11-27,100.0,77.5,67.2,Lewat,2438700.0
+MP2022-00148,Projek Kemudahan Awam 148,Kemudahan Awam,KDN,SELANGOR,"RM9,269,000.00",2023-11-21,2025-12-03,100.0,83.8,65.9,Dalam Pelaksanaan,6108300.0
+MP2022-00149,Projek Kemudahan Awam 149,Kemudahan Awam,KKM,Pahang,"RM5,577,000.00",2023-06-02,2024-08-16,100.0,93.6,84.5,Dalam Pelaksanaan,4712600.0
+MP2022-00150,Projek Kemudahan Awam 150,Kemudahan Awam,KPWKM,Sabah,"RM18,240,000.00",2022-04-17,2024-02-18,100.0,60.9,48.7,Lewat,8882900.0
+MP2022-00151,Projek Bekalan Air 151,Bekalan Air,KKM,PERLIS,"RM807,000.00",2024-01-18,2025-02-13,100.0,94.6,80.8,Dalam Pelaksanaan,652100.0
+MP2022-00152,Projek Sekolah 152,Sekolah,,WP Kuala Lumpur,"RM1,768,000.00",2023-01-05,2024-03-12,100.0,90.2,83.6,Dalam Pelaksanaan,1478000.0
+MP2022-00153,Projek Jalan & Jambatan 153,Jalan & Jambatan,KKR,WP Kuala Lumpur,"RM1,189,000.00",2022-11-12,2024-09-10,100.0,86.4,83.7,Dalam Pelaksanaan,995200.0
+MP2022-00154,Projek Jalan & Jambatan 154,Jalan & Jambatan,KPM,Pahang,"RM7,618,000.00",2023-12-25,2026-01-26,100.0,81.1,57.7,Dalam Pelaksanaan,4395600.0
+MP2022-00155,Projek Kemudahan Awam 155,Kemudahan Awam,KPKT,Kedah,"RM874,000.00",2023-04-20,2023-12-10,100.0,93.6,89.2,Dalam Pelaksanaan,779600.0
+MP2022-00156,Projek Sekolah 156,Sekolah,KDN,Perak,"RM35,602,000.00",2022-06-19,2025-06-06,100.0,92.5,91.1,Dalam Pelaksanaan,32433400.0
+MP2022-00157,Projek Jalan & Jambatan 157,Jalan & Jambatan,KPWKM,Perak,"RM4,337,000.00",2024-06-11,2025-05-11,100.0,82.7,76.3,Dalam Pelaksanaan,3309100.0
+MP2022-00158,Projek Jalan & Jambatan 158,Jalan & Jambatan,KKR,Sarawak,"RM11,992,000.00",2023-01-30,2024-12-17,100.0,93.6,84.6,Dalam Pelaksanaan,10145200.0
+MP2022-00159,Projek Sekolah 159,Sekolah,KKM,Johor,"RM1,673,000.00",2024-03-27,2026-07-06,99.3,85.0,75.2,Dalam Pelaksanaan,1258100.0
+MP2022-00160,Projek Kemudahan Awam 160,Kemudahan Awam,KPKT,Pahang,"RM4,764,000.00",2023-02-10,2024-04-12,100.0,98.6,92.6,Dalam Pelaksanaan,4411500.0
+MP2022-00161,Projek Sekolah 161,Sekolah,MOF,Kedah,"RM7,003,000.00",2022-11-06,2025-01-18,100.0,100.0,88.9,Siap,6225700.0
+MP2022-00162,Projek Jalan & Jambatan 162,Jalan & Jambatan,KKR,Perak,"RM2,114,000.00",2024-03-13,2025-12-19,100.0,77.2,58.5,Lewat,1236700.0
+MP2022-00163,Projek Perumahan 163,Perumahan,KPWKM,Melaka,"RM3,253,000.00",2024-05-31,2024-12-23,100.0,76.2,70.3,Lewat,2286900.0
+MP2022-00164,Projek Jalan & Jambatan 164,Jalan & Jambatan,KPKT,Negeri Sembilan,"RM16,218,000.00",2022-11-11,2025-07-17,100.0,60.8,52.5,Lewat,8514400.0
+MP2022-00165,Projek Klinik/Hospital 165,Klinik/Hospital,MOF,WP Kuala Lumpur,"RM12,481,000.00",2023-02-03,2023-12-30,100.0,90.1,73.4,Dalam Pelaksanaan,9161100.0
+MP2022-00166,Projek Jalan & Jambatan 166,Jalan & Jambatan,KPM,Johor,"RM6,723,000.00",2023-07-07,2024-04-22,100.0,60.3,58.6,Lewat,3939700.0
+MP2022-00167,Projek Jalan & Jambatan 167,Jalan & Jambatan,MOF,Selangor,"RM23,540,000.00",2023-11-14,2025-12-01,100.0,100.0,99.4,Siap,23398800.0
+MP2022-00168,Projek Klinik/Hospital 168,Klinik/Hospital,KPWKM,Selangor,"RM693,000.00",2023-05-18,2024-05-07,100.0,65.9,62.2,Lewat,431000.0
+MP2022-00169,Projek Jalan & Jambatan 169,Jalan & Jambatan,KPWKM,Johor,"RM5,189,000.00",2023-12-13,2025-06-20,100.0,80.6,73.3,Dalam Pelaksanaan,3803500.0
+MP2022-00170,Projek Kemudahan Awam 170,Kemudahan Awam,KPKT,Sabah,"RM2,833,000.00",2024-04-07,2024-11-05,100.0,92.5,78.9,Dalam Pelaksanaan,2235200.0
+MP2022-00171,Projek Bekalan Air 171,Bekalan Air,KPM,Sarawak,"RM14,380,000.00",2023-02-06,2025-01-27,100.0,88.4,90.6,Dalam Pelaksanaan,13028300.0
+MP2022-00172,Projek Kemudahan Awam 172,Kemudahan Awam,KPKT,Terengganu,"RM10,841,000.00",2024-04-26,2027-01-06,80.7,79.9,76.1,Dalam Pelaksanaan,8250000.0
+MP2022-00173,Projek Klinik/Hospital 173,Klinik/Hospital,KPWKM,Kedah,"RM11,439,000.00",2024-04-07,2025-01-30,100.0,84.6,83.6,Dalam Pelaksanaan,9563000.0
+MP2022-00174,Projek Bekalan Air 174,Bekalan Air,KPWKM,Johor,"RM2,333,000.00",2024-09-04,2026-08-12,93.9,66.1,68.0,Lewat,1586400.0
+MP2022-00175,Projek Bekalan Air 175,Bekalan Air,KKM,Perlis,"RM6,619,000.00",2023-04-11,2025-12-09,100.0,72.2,72.2,Lewat,4778900.0
+MP2022-00176,Projek Klinik/Hospital 176,Klinik/Hospital,KPM,Kedah,"RM10,556,000.00",2024-04-25,2025-05-06,100.0,89.2,76.5,Dalam Pelaksanaan,8075300.0
+MP2022-00177,Projek Bekalan Air 177,Bekalan Air,KKDW,Pahang,"RM12,834,000.00",2024-08-18,2025-10-10,100.0,89.5,80.9,Dalam Pelaksanaan,10382700.0
+MP2022-00178,Projek Bekalan Air 178,Bekalan Air,KDN,Johor,"RM1,735,000.00",2024-07-29,2026-03-23,100.0,70.4,61.4,Lewat,1065300.0
+MP2022-00179,Projek Kemudahan Awam 179,Kemudahan Awam,KPKT,Selangor,"RM2,159,000.00",2024-07-25,2025-12-31,100.0,79.6,67.8,Lewat,1463800.0
+MP2022-00180,Projek Sekolah 180,Sekolah,KKR,Negeri Sembilan,"RM4,979,000.00",2023-01-27,2023-10-11,100.0,100.0,89.3,Siap,4446200.0
+MP2022-00181,Projek Kemudahan Awam 181,Kemudahan Awam,KKR,PERLIS,"RM14,011,000.00",2024-06-19,2026-02-02,100.0,78.1,67.4,Lewat,9443400.0
+MP2022-00182,Projek Sekolah 182,Sekolah,KPM,Melaka,"RM6,978,000.00",2023-03-13,2025-12-29,100.0,94.8,74.9,Dalam Pelaksanaan,5226500.0
+MP2022-00183,Projek Sekolah 183,Sekolah,KPKT,Sarawak,"RM13,773,000.00",2024-06-27,2026-06-22,100.0,22.0,9.8,Lewat,1349800.0
+MP2022-00184,Projek Sekolah 184,Sekolah,KKDW,Perak,"RM689,000.00",2024-03-20,2025-07-05,100.0,85.8,94.8,Dalam Pelaksanaan,653200.0
+MP2022-00185,Projek Kemudahan Awam 185,Kemudahan Awam,KKR,Sarawak,"RM3,127,000.00",2022-05-28,2025-05-14,100.0,93.0,81.4,Dalam Pelaksanaan,2545400.0
+MP2022-00186,Projek Sekolah 186,Sekolah,KKM,Terengganu,"RM6,255,000.00",2022-05-08,2023-01-24,100.0,98.9,84.8,Dalam Pelaksanaan,5304200.0
+MP2022-00187,Projek Perumahan 187,Perumahan,MOF,Terengganu,"RM5,089,000.00",2023-10-11,2024-10-17,100.0,96.3,85.2,Dalam Pelaksanaan,4335800.0
+MP2022-00188,Projek Bekalan Air 188,Bekalan Air,KPKT,Sarawak,"RM728,000.00",2022-09-03,2025-08-26,100.0,82.5,78.3,Dalam Pelaksanaan,570000.0
+MP2022-00189,Projek Bekalan Air 189,Bekalan Air,KKM,Sabah,"RM10,754,000.00",2024-01-12,2024-12-06,100.0,85.7,84.2,Dalam Pelaksanaan,9054900.0
+MP2022-00190,Projek Jalan & Jambatan 190,Jalan & Jambatan,KKM,KELANTAN,"RM5,448,000.00",2024-02-20,2026-09-05,92.8,76.0,67.7,Dalam Pelaksanaan,3688300.0
+MP2022-00191,Projek Bekalan Air 191,Bekalan Air,KKR,Sabah,"RM2,624,000.00",2023-06-13,2024-04-21,100.0,95.2,82.9,Dalam Pelaksanaan,2175300.0
+MP2022-00192,Projek Jalan & Jambatan 192,Jalan & Jambatan,KKM,Perak,"RM11,734,000.00",2024-02-18,2025-03-09,100.0,84.7,71.3,Dalam Pelaksanaan,8366300.0
+MP2022-00193,Projek Bekalan Air 193,Bekalan Air,KPKT,Pahang,"RM842,000.00",2023-06-14,2025-11-22,100.0,81.4,84.9,Dalam Pelaksanaan,714900.0
+MP2022-00194,Projek Perumahan 194,Perumahan,KKR,Perak,"RM2,520,000.00",2023-07-24,2025-09-11,100.0,89.5,79.4,Dalam Pelaksanaan,2000900.0
+MP2022-00195,Projek Kemudahan Awam 195,Kemudahan Awam,KPWKM,PERLIS,"RM8,847,000.00",2022-07-21,2024-01-03,100.0,77.0,61.0,Lewat,5396700.0
+MP2022-00196,Projek Kemudahan Awam 196,Kemudahan Awam,KKR,Johor,"RM5,601,000.00",2023-08-10,2024-10-09,100.0,81.7,68.9,Dalam Pelaksanaan,3859100.0
+MP2022-00197,Projek Sekolah 197,Sekolah,MOF,Kedah,"RM3,262,000.00",2022-06-10,2025-04-07,100.0,68.3,44.3,Lewat,1445100.0
+MP2022-00198,Projek Perumahan 198,Perumahan,KPKT,Melaka,"RM3,477,000.00",2023-09-13,2025-05-11,100.0,90.6,87.0,Dalam Pelaksanaan,3025000.0
+MP2022-00199,Projek Bekalan Air 199,Bekalan Air,KPKT,Selangor,"RM3,236,000.00",2024-02-23,2024-10-21,100.0,78.5,78.1,Lewat,2527300.0
+MP2023-00200,Projek Perumahan 200,Perumahan,KPM,Sarawak,"RM8,715,000.00",2024-02-07,2026-07-31,96.6,73.7,60.2,Lewat,5246400.0
+MP2023-00201,Projek Perumahan 201,Perumahan,KKM,Johor,"RM3,036,000.00",2022-05-30,2024-03-29,100.0,93.9,76.5,Dalam Pelaksanaan,2322500.0
+MP2023-00202,Projek Klinik/Hospital 202,Klinik/Hospital,KPM,Terengganu,"RM7,349,000.00",2024-02-29,2025-01-28,100.0,84.7,83.0,Dalam Pelaksanaan,6099700.0
+MP2023-00203,Projek Jalan & Jambatan 203,Jalan & Jambatan,KKR,Kedah ,"RM610,000.00",2023-12-30,2026-05-24,100.0,94.7,86.4,Dalam Pelaksanaan,527000.0
+MP2023-00204,Projek Perumahan 204,Perumahan,KKR,Selangor,"RM12,073,000.00",2022-05-29,2024-03-13,100.0,72.8,63.3,Lewat,7642200.0
+MP2023-00205,Projek Bekalan Air 205,Bekalan Air,MOF,Pahang,"RM35,941,000.00",2022-03-19,2023-12-25,100.0,,85.2,Dalam Pelaksanaan,30621700.0
+MP2023-00206,Projek Jalan & Jambatan 206,Jalan & Jambatan,KKR,Sarawak,"RM6,260,000.00",2023-10-14,2026-05-31,100.0,80.9,65.0,Dalam Pelaksanaan,4069000.0
+MP2023-00207,Projek Klinik/Hospital 207,Klinik/Hospital,,Perak,"RM3,694,000.00",17/02/2023,2024-08-24,100.0,37.6,14.9,Lewat,550400.0
+MP2023-00208,Projek Jalan & Jambatan 208,Jalan & Jambatan,KPWKM,Selangor,"RM2,467,000.00",2023-05-14,2023-12-19,100.0,63.6,59.2,Lewat,1460500.0
+MP2023-00209,Projek Perumahan 209,Perumahan,KKR,WP Kuala Lumpur,"RM7,495,000.00",2022-01-25,2024-08-08,100.0,68.0,61.9,Lewat,4639400.0
+MP2023-00210,Projek Klinik/Hospital 210,Klinik/Hospital,KDN,Johor,"RM2,224,000.00",2022-08-27,2023-08-31,100.0,65.7,67.1,Lewat,1492300.0
+MP2023-00211,Projek Jalan & Jambatan 211,Jalan & Jambatan,KKR,Sabah,"RM1,911,000.00",2023-10-23,2025-08-01,100.0,74.9,62.0,Lewat,1184800.0
+MP2023-00212,Projek Sekolah 212,Sekolah,KDN,Terengganu,"RM588,000.00",2023-09-25,2025-04-23,100.0,71.5,70.5,Lewat,414500.0
+MP2023-00213,Projek Bekalan Air 213,Bekalan Air,KPWKM,Perak,"RM4,967,000.00",2022-10-20,2025-07-30,100.0,86.9,78.1,Dalam Pelaksanaan,3879200.0
+MP2023-00214,Projek Bekalan Air 214,Bekalan Air,MOF,Kelantan,"RM3,073,000.00",2022-12-09,2023-06-26,100.0,100.0,89.1,Siap,2738000.0
+MP2023-00215,Projek Kemudahan Awam 215,Kemudahan Awam,KKM,WP Kuala Lumpur,"RM3,229,000.00",2023-04-13,2024-05-16,100.0,92.1,75.8,Dalam Pelaksanaan,2447600.0
+MP2023-00216,Projek Klinik/Hospital 216,Klinik/Hospital,KDN,Kelantan,"RM3,984,000.00",2022-12-07,2024-05-18,100.0,,88.1,Dalam Pelaksanaan,3509900.0
+MP2023-00217,Projek Bekalan Air 217,Bekalan Air,KDN,WP Kuala Lumpur,"RM2,111,000.00",2022-10-14,2024-10-13,100.0,69.4,64.4,Lewat,1359500.0
+MP2023-00218,Projek Kemudahan Awam 218,Kemudahan Awam,KDN,Melaka,"RM4,726,000.00",2022-11-10,2023-11-24,100.0,92.0,88.0,Dalam Pelaksanaan,4158900.0
+MP2023-00219,Projek Sekolah 219,Sekolah,KDN,Perlis,"RM1,511,000.00",2023-05-31,2025-07-02,100.0,85.3,71.2,Dalam Pelaksanaan,1075800.0
+MP2023-00220,Projek Jalan & Jambatan 220,Jalan & Jambatan,KDN,Melaka,"RM3,599,000.00",2023-07-09,2024-06-15,100.0,63.0,57.2,Lewat,2058600.0
+MP2023-00221,Projek Bekalan Air 221,Bekalan Air,KDN,Negeri Sembilan,"RM3,099,000.00",2023-10-20,2026-07-30,97.0,61.3,53.0,Lewat,1642500.0
+MP2023-00222,Projek Bekalan Air 222,Bekalan Air,KKM,Johor,"RM858,000.00",2022-09-07,2025-07-13,100.0,79.1,66.4,Lewat,569700.0
+MP2023-00223,Projek Klinik/Hospital 223,Klinik/Hospital,KPM,Pahang,"RM1,341,000.00",2022-06-16,2023-03-08,100.0,78.8,62.7,Lewat,840800.0
+MP2023-00224,Projek Bekalan Air 224,Bekalan Air,KKM,Kelantan,"RM2,343,000.00",2022-11-10,2024-11-19,100.0,92.8,77.6,Dalam Pelaksanaan,1818200.0
+MP2023-00225,Projek Perumahan 225,Perumahan,KPWKM,Terengganu,"RM2,407,000.00",2024-02-17,2026-08-26,93.8,77.6,78.4,Dalam Pelaksanaan,1887100.0
+MP2023-00226,Projek Perumahan 226,Perumahan,KKM,Terengganu,"RM5,042,000.00",2024-04-16,2025-09-02,100.0,94.0,92.8,Dalam Pelaksanaan,4679000.0
+MP2023-00227,Projek Jalan & Jambatan 227,Jalan & Jambatan,MOF,Sabah,"RM2,773,000.00",2024-02-22,2026-05-10,100.0,92.7,82.5,Dalam Pelaksanaan,2287700.0
+MP2023-00228,Projek Klinik/Hospital 228,Klinik/Hospital,KDN,Selangor,"RM3,813,000.00",2023-01-28,2025-08-01,100.0,82.1,70.5,Dalam Pelaksanaan,2688200.0
+MP2023-00229,Projek Sekolah 229,Sekolah,KDN,Melaka,"RM2,764,000.00",2024-07-31,2027-03-29,72.0,55.2,45.5,Dalam Pelaksanaan,1257600.0
+MP2023-00230,Projek Klinik/Hospital 230,Klinik/Hospital,KPKT,Sarawak,"RM388,000.00",2023-07-26,2025-07-11,100.0,78.9,62.8,Lewat,243700.0
+MP2023-00231,Projek Jalan & Jambatan 231,Jalan & Jambatan,KPM,Perak,"RM3,573,000.00",2023-01-16,2025-01-25,100.0,85.5,67.9,Dalam Pelaksanaan,2426100.0
+MP2023-00232,Projek Klinik/Hospital 232,Klinik/Hospital,MOF,Kedah,"RM1,871,000.00",2023-08-07,2024-06-12,100.0,57.8,50.3,Lewat,941100.0
+MP2023-00233,Projek Jalan & Jambatan 233,Jalan & Jambatan,KKR,Sabah,"RM3,458,000.00",2024-05-23,2026-01-10,100.0,77.9,68.8,Lewat,2379100.0
+MP2023-00234,Projek Kemudahan Awam 234,Kemudahan Awam,KDN,Melaka,"RM2,004,000.00",2023-03-11,2025-07-04,100.0,75.1,60.3,Lewat,1208400.0
+MP2023-00235,Projek Bekalan Air 235,Bekalan Air,KKDW,Pahang,"RM7,204,000.00",2022-04-04,2024-10-02,100.0,,66.4,Lewat,4783500.0
+MP2023-00236,Projek Klinik/Hospital 236,Klinik/Hospital,KPWKM,Johor,"RM3,831,000.00",2022-11-03,2024-03-16,100.0,92.8,91.1,Dalam Pelaksanaan,3490000.0
+MP2023-00237,Projek Sekolah 237,Sekolah,KPM,Pulau Pinang,"RM7,553,000.00",2024-09-20,2025-12-05,100.0,88.0,88.1,Dalam Pelaksanaan,6654200.0
+MP2023-00238,Projek Kemudahan Awam 238,Kemudahan Awam,KKR,Melaka,"RM8,067,000.00",2023-04-10,2025-07-23,100.0,90.4,93.4,Dalam Pelaksanaan,7534600.0
+MP2023-00239,Projek Bekalan Air 239,Bekalan Air,,WP Kuala Lumpur,"RM2,398,000.00",2022-08-01,2023-03-19,100.0,67.1,59.2,Lewat,1419600.0
+MP2023-00240,Projek Kemudahan Awam 240,Kemudahan Awam,KPKT,Kedah,"RM8,316,000.00",2024-05-31,2025-06-11,100.0,91.0,86.7,Dalam Pelaksanaan,7210000.0
+MP2023-00241,Projek Bekalan Air 241,Bekalan Air,KPM,Kedah,"RM4,905,000.00",2023-01-09,2025-05-27,100.0,94.5,90.8,Dalam Pelaksanaan,4453700.0
+MP2023-00242,Projek Kemudahan Awam 242,Kemudahan Awam,KPWKM,Pulau Pinang,"RM1,541,000.00",2022-11-16,2025-01-24,100.0,93.0,94.6,Dalam Pelaksanaan,1457800.0
+MP2023-00243,Projek Kemudahan Awam 243,Kemudahan Awam,KPKT,Sabah,"RM3,597,000.00",2022-04-04,2024-10-17,100.0,47.5,39.9,Lewat,1435200.0
+MP2023-00244,Projek Perumahan 244,Perumahan,KKR,Sabah,"RM4,346,000.00",2024-08-04,2027-01-13,77.9,37.4,38.8,Lewat,1686200.0
+MP2023-00245,Projek Klinik/Hospital 245,Klinik/Hospital,KPWKM,Terengganu,"RM12,521,000.00",2024-04-15,2026-11-13,85.6,80.5,79.8,Dalam Pelaksanaan,9991800.0
+MP2023-00246,Projek Perumahan 246,Perumahan,MOF,Kedah ,"RM2,918,000.00",2023-01-24,2024-05-14,100.0,89.4,83.7,Dalam Pelaksanaan,2442400.0
+MP2023-00247,Projek Sekolah 247,Sekolah,KPM,Perlis,"RM16,416,000.00",2023-05-01,2024-12-12,100.0,98.0,87.2,Dalam Pelaksanaan,14314800.0
+MP2023-00248,Projek Kemudahan Awam 248,Kemudahan Awam,KPWKM,Perak,"RM7,984,000.00",2022-09-12,2024-09-19,100.0,70.2,62.1,Lewat,4958100.0
+MP2023-00249,Projek Sekolah 249,Sekolah,KPM,Perak,"RM596,000.00",2024-08-20,2026-12-22,79.5,57.8,45.6,Lewat,271800.0
+MP2023-00250,Projek Jalan & Jambatan 250,Jalan & Jambatan,MOF,Johor,"RM1,572,000.00",2024-07-08,2025-12-16,100.0,,52.7,Lewat,828400.0
+MP2023-00251,Projek Jalan & Jambatan 251,Jalan & Jambatan,KPM,Negeri Sembilan,"RM6,769,000.00",2022-05-25,2024-09-07,100.0,76.6,71.3,Lewat,4826300.0
+MP2023-00252,Projek Klinik/Hospital 252,Klinik/Hospital,KKR,Sarawak,"RM1,078,000.00",2022-08-31,2023-08-11,100.0,94.6,88.7,Dalam Pelaksanaan,956200.0
+MP2023-00253,Projek Bekalan Air 253,Bekalan Air,KDN,Perlis,"RM6,129,000.00",2024-06-10,2025-08-29,100.0,71.8,69.5,Lewat,4259700.0
+MP2023-00254,Projek Sekolah 254,Sekolah,KKR,Perak,"RM13,858,000.00",2022-08-07,2024-10-11,100.0,97.3,89.2,Dalam Pelaksanaan,12361300.0
+MP2023-00255,Projek Perumahan 255,Perumahan,KPM,Sarawak ,"RM3,137,000.00",2022-12-26,2025-05-28,100.0,54.2,39.1,Lewat,1226600.0
+MP2023-00256,Projek Sekolah 256,Sekolah,KPM,WP Kuala Lumpur,"RM14,174,000.00",2024-03-19,2024-11-23,100.0,86.1,73.7,Dalam Pelaksanaan,10446200.0
+MP2023-00257,Projek Klinik/Hospital 257,Klinik/Hospital,KKR,Sarawak,"RM13,145,000.00",2022-08-25,2025-07-27,100.0,80.9,68.6,Dalam Pelaksanaan,9017500.0
+MP2023-00258,Projek Klinik/Hospital 258,Klinik/Hospital,KKM,Pulau Pinang,"RM3,795,000.00",2024-04-26,2026-10-19,87.7,57.4,47.2,Lewat,1791200.0
+MP2023-00259,Projek Bekalan Air 259,Bekalan Air,KDN,Pulau Pinang,"RM3,875,000.00",2023-10-20,2025-03-06,100.0,71.0,61.7,Lewat,2390900.0
+MP2023-00260,Projek Sekolah 260,Sekolah,KDN,Terengganu,"RM4,700,000.00",2022-07-05,2024-08-22,100.0,91.4,82.9,Dalam Pelaksanaan,3896300.0
+MP2023-00261,Projek Kemudahan Awam 261,Kemudahan Awam,KPWKM,Pulau Pinang,"RM5,959,000.00",2022-01-31,2023-04-07,100.0,94.0,92.7,Dalam Pelaksanaan,5524000.0
+MP2023-00262,Projek Kemudahan Awam 262,Kemudahan Awam,KKDW,SARAWAK,"RM983,000.00",2022-06-22,2023-04-02,100.0,99.4,98.4,Dalam Pelaksanaan,967300.0
+MP2023-00263,Projek Perumahan 263,Perumahan,KPM,Selangor,"RM3,505,000.00",2023-06-10,2025-05-27,100.0,96.1,94.0,Dalam Pelaksanaan,3294700.0
+MP2023-00264,Projek Bekalan Air 264,Bekalan Air,KKR,Sarawak,"RM886,000.00",2024-08-17,2027-05-17,68.0,52.2,38.6,Dalam Pelaksanaan,342000.0
+MP2023-00265,Projek Perumahan 265,Perumahan,KKM,Kedah,"RM2,927,000.00",2023-04-19,2025-12-31,100.0,86.6,82.6,Dalam Pelaksanaan,2417700.0
+MP2023-00266,Projek Klinik/Hospital 266,Klinik/Hospital,KKDW,Johor,"RM3,277,000.00",2022-05-09,2023-01-16,100.0,,57.0,Lewat,1867900.0
+MP2023-00267,Projek Kemudahan Awam 267,Kemudahan Awam,MOF,Perlis ,"RM778,000.00",2022-02-18,2024-02-27,100.0,91.1,90.2,Dalam Pelaksanaan,701800.0
+MP2023-00268,Projek Jalan & Jambatan 268,Jalan & Jambatan,KKR,Kedah,"RM1,281,000.00",2022-07-07,2023-03-11,100.0,88.1,81.9,Dalam Pelaksanaan,1049100.0
+MP2023-00269,Projek Sekolah 269,Sekolah,KPM,WP Kuala Lumpur,"RM2,790,000.00",2023-03-11,2026-02-15,100.0,99.2,97.3,Dalam Pelaksanaan,2714700.0
+MP2023-00270,Projek Klinik/Hospital 270,Klinik/Hospital,KPWKM,Perlis,"RM27,905,000.00",2023-03-18,2024-09-26,100.0,63.7,51.6,Lewat,14399000.0
+MP2023-00271,Projek Bekalan Air 271,Bekalan Air,KDN,Negeri Sembilan,"RM1,146,000.00",2022-11-01,2025-08-25,100.0,91.2,71.4,Dalam Pelaksanaan,818200.0
+MP2023-00272,Projek Perumahan 272,Perumahan,KKR,Perlis,"RM4,466,000.00",2023-09-14,2025-06-24,100.0,97.1,96.8,Dalam Pelaksanaan,4323100.0
+MP2023-00273,Projek Perumahan 273,Perumahan,KPKT,Sarawak,"RM1,787,000.00",2022-09-06,2024-12-17,100.0,87.6,78.0,Dalam Pelaksanaan,1393900.0
+MP2023-00274,Projek Kemudahan Awam 274,Kemudahan Awam,MOF,Negeri Sembilan,"RM2,849,000.00",2022-09-12,2023-03-25,100.0,85.9,83.1,Dalam Pelaksanaan,2367500.0
+MP2023-00275,Projek Kemudahan Awam 275,Kemudahan Awam,KDN,Perak,"RM9,691,000.00",2024-07-19,2026-10-27,85.7,76.8,64.6,Dalam Pelaksanaan,6260400.0
+MP2023-00276,Projek Kemudahan Awam 276,Kemudahan Awam,MOF,Terengganu,"RM5,280,000.00",2023-06-19,2025-06-18,100.0,94.1,76.0,Dalam Pelaksanaan,4012800.0
+MP2023-00277,Projek Klinik/Hospital 277,Klinik/Hospital,KKM,Negeri Sembilan,"RM5,857,000.00",2023-08-22,2024-07-30,100.0,75.3,70.6,Lewat,4135000.0
+MP2023-00278,Projek Perumahan 278,Perumahan,KDN,Pulau Pinang,"RM6,199,000.00",2023-07-27,2025-03-10,100.0,100.0,86.0,Siap,5331100.0
+MP2023-00279,Projek Perumahan 279,Perumahan,KPKT,Pahang,"RM6,702,000.00",2022-06-04,2023-10-10,100.0,56.8,49.6,Lewat,3324200.0
+MP2023-00280,Projek Bekalan Air 280,Bekalan Air,KKR,Kedah,"RM571,000.00",2023-08-06,2024-03-01,100.0,81.2,77.7,Dalam Pelaksanaan,443700.0
+MP2023-00281,Projek Bekalan Air 281,Bekalan Air,KPM,Selangor,"RM5,652,000.00",2024-01-28,2026-08-10,95.6,86.6,81.0,Dalam Pelaksanaan,4578100.0
+MP2023-00282,Projek Bekalan Air 282,Bekalan Air,KPWKM,Negeri Sembilan,"RM3,698,000.00",2022-02-12,2024-04-23,100.0,88.4,73.3,Dalam Pelaksanaan,2710600.0
+MP2023-00283,Projek Klinik/Hospital 283,Klinik/Hospital,KPWKM,Pulau Pinang,"RM5,710,000.00",2023-01-05,2024-07-06,100.0,79.2,68.6,Lewat,3917100.0
+MP2023-00284,Projek Jalan & Jambatan 284,Jalan & Jambatan,KPWKM,Kelantan,"RM8,476,000.00",2022-10-06,2024-01-10,100.0,,80.3,Dalam Pelaksanaan,6806200.0
+MP2023-00285,Projek Jalan & Jambatan 285,Jalan & Jambatan,MOF,Sarawak,"RM5,804,000.00",2023-08-22,2024-09-14,100.0,92.3,85.3,Dalam Pelaksanaan,4950800.0
+MP2023-00286,Projek Jalan & Jambatan 286,Jalan & Jambatan,KKR,Terengganu,"RM7,432,000.00",2024-06-25,2026-11-22,83.5,64.6,60.4,Dalam Pelaksanaan,4488900.0
+MP2023-00287,Projek Klinik/Hospital 287,Klinik/Hospital,KKM,NEGERI SEMBILAN,"RM1,391,000.00",2023-01-15,2023-09-10,100.0,100.0,88.0,Siap,1224100.0
+MP2023-00288,Projek Klinik/Hospital 288,Klinik/Hospital,KPM,Johor,"RM5,975,000.00",2022-03-07,2023-12-20,100.0,79.8,58.6,Lewat,3501400.0
+MP2023-00289,Projek Kemudahan Awam 289,Kemudahan Awam,KPKT,Negeri Sembilan,"RM3,619,000.00",2023-10-01,2024-10-20,100.0,87.2,80.2,Dalam Pelaksanaan,2902400.0
+MP2023-00290,Projek Sekolah 290,Sekolah,MOF,Terengganu,"RM3,694,000.00",2022-11-06,2023-07-15,100.0,87.9,86.2,Dalam Pelaksanaan,3184200.0
+MP2023-00291,Projek Sekolah 291,Sekolah,KPWKM,Kelantan,"RM12,866,000.00",2023-11-13,2025-10-23,100.0,93.1,82.7,Dalam Pelaksanaan,10640200.0
+MP2023-00292,Projek Jalan & Jambatan 292,Jalan & Jambatan,,Kelantan,"RM2,572,000.00",2022-05-21,2023-07-31,100.0,91.7,80.4,Dalam Pelaksanaan,2067900.0
+MP2023-00293,Projek Jalan & Jambatan 293,Jalan & Jambatan,,WP Kuala Lumpur,"RM2,191,000.00",2022-10-11,2025-08-06,100.0,93.4,78.8,Dalam Pelaksanaan,1726500.0
+MP2023-00294,Projek Bekalan Air 294,Bekalan Air,KPWKM,Melaka,"RM1,224,000.00",2023-01-24,2025-05-06,100.0,90.0,89.4,Dalam Pelaksanaan,1094300.0
+MP2023-00295,Projek Klinik/Hospital 295,Klinik/Hospital,KDN,Pahang,"RM3,060,000.00",2024-04-11,2025-10-03,100.0,82.6,72.8,Dalam Pelaksanaan,2227700.0
+MP2023-00296,Projek Bekalan Air 296,Bekalan Air,MOF,Negeri Sembilan,"RM10,466,000.00",2023-07-05,2026-06-25,100.0,87.3,84.5,Dalam Pelaksanaan,8843800.0
+MP2023-00297,Projek Jalan & Jambatan 297,Jalan & Jambatan,KPM,Selangor,"RM890,000.00",2023-09-11,2026-03-05,100.0,94.9,78.4,Dalam Pelaksanaan,697800.0
+MP2023-00298,Projek Perumahan 298,Perumahan,KKDW,Perlis,"RM5,006,000.00",2023-12-07,2025-09-05,100.0,84.0,71.3,Dalam Pelaksanaan,3569300.0
+MP2023-00299,Projek Sekolah 299,Sekolah,KDN,PAHANG,"RM409,000.00",29/08/2023,2024-06-22,100.0,76.9,70.0,Lewat,286300.0
+MP2023-00300,Projek Jalan & Jambatan 300,Jalan & Jambatan,KKDW,Terengganu,"RM2,145,000.00",2024-06-01,2025-02-07,100.0,90.7,90.1,Dalam Pelaksanaan,1932600.0
+MP2023-00301,Projek Kemudahan Awam 301,Kemudahan Awam,MOF,Perlis,"RM5,919,000.00",2022-08-07,2025-02-28,100.0,94.0,74.3,Dalam Pelaksanaan,4397800.0
+MP2023-00302,Projek Klinik/Hospital 302,Klinik/Hospital,KDN,Sarawak,"RM2,459,000.00",2023-09-30,2025-06-03,100.0,86.6,79.5,Dalam Pelaksanaan,1954900.0
+MP2023-00303,Projek Sekolah 303,Sekolah,KPWKM,Terengganu,"RM1,353,000.00",2022-09-11,2025-07-10,100.0,91.9,78.3,Dalam Pelaksanaan,1059400.0
+MP2023-00304,Projek Jalan & Jambatan 304,Jalan & Jambatan,MOF,Pulau Pinang,"RM2,866,000.00",2023-07-12,2025-03-26,100.0,77.1,80.8,Lewat,2315700.0
+MP2023-00305,Projek Bekalan Air 305,Bekalan Air,KKR,Kelantan,"RM9,725,000.00",2023-01-31,2024-11-03,100.0,98.4,89.5,Dalam Pelaksanaan,8703900.0
+MP2023-00306,Projek Sekolah 306,Sekolah,MOF,Sabah,"RM15,290,000.00",2024-07-06,2027-01-31,77.1,36.5,23.7,Lewat,3623700.0
+MP2023-00307,Projek Sekolah 307,Sekolah,KKDW,Perlis,"RM15,572,000.00",2022-02-03,2023-09-24,100.0,81.3,86.5,Dalam Pelaksanaan,13469800.0
+MP2023-00308,Projek Perumahan 308,Perumahan,KDN,Johor,"RM7,378,000.00",2023-07-04,2025-04-22,100.0,88.7,79.0,Dalam Pelaksanaan,5828600.0
+MP2023-00309,Projek Perumahan 309,Perumahan,KPKT,Melaka ,"RM5,523,000.00",2022-02-24,2024-12-05,100.0,89.4,73.6,Dalam Pelaksanaan,4064900.0
+MP2023-00310,Projek Jalan & Jambatan 310,Jalan & Jambatan,KKR,Selangor,"RM9,696,000.00",2022-12-31,2024-02-03,100.0,96.9,97.9,Dalam Pelaksanaan,9492400.0
+MP2023-00311,Projek Jalan & Jambatan 311,Jalan & Jambatan,MOF,WP Kuala Lumpur,"RM1,410,000.00",2023-10-25,2024-11-17,100.0,70.9,63.7,Lewat,898200.0
+MP2023-00312,Projek Sekolah 312,Sekolah,KPWKM,SELANGOR,"RM1,669,000.00",2022-08-27,2025-06-27,100.0,90.2,84.3,Dalam Pelaksanaan,1407000.0
+MP2023-00313,Projek Perumahan 313,Perumahan,KKDW,Terengganu,"RM12,767,000.00",2022-11-13,2025-09-04,100.0,83.4,79.2,Dalam Pelaksanaan,10111500.0
+MP2023-00314,Projek Sekolah 314,Sekolah,KPKT,Negeri Sembilan,"RM8,629,000.00",2023-11-07,2026-10-26,89.1,75.3,71.1,Dalam Pelaksanaan,6135200.0
+MP2023-00315,Projek Klinik/Hospital 315,Klinik/Hospital,KPKT,Perak,"RM8,776,000.00",2023-12-22,2026-10-11,89.9,85.2,82.7,Dalam Pelaksanaan,7257800.0
+MP2023-00316,Projek Jalan & Jambatan 316,Jalan & Jambatan,KPM,Negeri Sembilan,"RM4,875,000.00",2023-10-09,2024-04-23,100.0,90.6,87.3,Dalam Pelaksanaan,4255900.0
+MP2023-00317,Projek Sekolah 317,Sekolah,KPKT,Melaka,"RM1,900,000.00",2022-03-16,2025-02-08,100.0,87.8,80.2,Dalam Pelaksanaan,1523800.0
+MP2023-00318,Projek Bekalan Air 318,Bekalan Air,KDN,Johor,"RM1,510,000.00",2022-12-05,2023-10-24,100.0,93.2,84.7,Dalam Pelaksanaan,1279000.0
+MP2023-00319,Projek Perumahan 319,Perumahan,KKM,PULAU PINANG,"RM9,288,000.00",2024-01-11,2026-10-06,90.2,60.7,60.9,Lewat,5656400.0
+MP2023-00320,Projek Kemudahan Awam 320,Kemudahan Awam,KPM,Pulau Pinang,"RM10,581,000.00",2024-05-13,2026-08-05,95.6,88.9,84.6,Dalam Pelaksanaan,8951500.0
+MP2023-00321,Projek Bekalan Air 321,Bekalan Air,MOF,Terengganu,"RM1,457,000.00",2022-08-03,2024-05-27,100.0,91.5,82.9,Dalam Pelaksanaan,1207900.0
+MP2023-00322,Projek Sekolah 322,Sekolah,KDN,Pulau Pinang,"RM2,052,000.00",2023-01-30,2024-09-18,100.0,100.0,84.7,Siap,1738000.0
+MP2023-00323,Projek Klinik/Hospital 323,Klinik/Hospital,KPWKM,Sabah,"RM3,640,000.00",2024-05-19,2026-08-04,95.7,50.3,34.9,Lewat,1270400.0
+MP2023-00324,Projek Jalan & Jambatan 324,Jalan & Jambatan,KKDW,Perak,"RM8,773,000.00",2022-05-05,2024-06-23,100.0,89.5,81.7,Dalam Pelaksanaan,7167500.0
+MP2023-00325,Projek Sekolah 325,Sekolah,KPWKM,Selangor,"RM2,939,000.00",2024-06-25,2026-04-26,100.0,88.3,79.6,Dalam Pelaksanaan,2339400.0
+MP2023-00326,Projek Klinik/Hospital 326,Klinik/Hospital,KKM,Negeri Sembilan,"RM1,854,000.00",2023-01-12,2023-09-24,100.0,97.6,98.2,Dalam Pelaksanaan,1820600.0
+MP2023-00327,Projek Perumahan 327,Perumahan,KPWKM,Selangor,"RM9,719,000.00",2023-11-21,2025-02-20,100.0,86.5,78.0,Dalam Pelaksanaan,7580800.0
+MP2023-00328,Projek Sekolah 328,Sekolah,KPKT,Pulau Pinang,"RM6,835,000.00",16/03/2023,2024-02-22,100.0,96.8,100.0,Dalam Pelaksanaan,6835000.0
+MP2023-00329,Projek Klinik/Hospital 329,Klinik/Hospital,KPM,Kelantan,"RM2,138,000.00",2023-01-30,2026-01-25,100.0,92.8,87.1,Dalam Pelaksanaan,1862200.0
+MP2023-00330,Projek Jalan & Jambatan 330,Jalan & Jambatan,KKR,Sarawak,"RM2,206,000.00",2023-01-11,2025-08-22,100.0,83.5,83.5,Dalam Pelaksanaan,1842000.0
+MP2023-00331,Projek Jalan & Jambatan 331,Jalan & Jambatan,KPWKM,Perak,"RM10,842,000.00",2022-01-26,2022-08-16,100.0,87.5,84.1,Dalam Pelaksanaan,9118100.0
+MP2023-00332,Projek Bekalan Air 332,Bekalan Air,KKDW,Kelantan,"RM1,261,000.00",2024-06-29,2026-07-23,96.9,93.7,84.9,Dalam Pelaksanaan,1070600.0
+MP2023-00333,Projek Kemudahan Awam 333,Kemudahan Awam,KPM,Melaka,"RM3,068,000.00",2024-02-01,2025-03-18,100.0,85.1,75.9,Dalam Pelaksanaan,2328600.0
+MP2023-00334,Projek Bekalan Air 334,Bekalan Air,KKR,Perlis,"RM5,983,000.00",2024-07-12,2026-04-18,100.0,72.7,57.1,Lewat,3416300.0
+MP2023-00335,Projek Jalan & Jambatan 335,Jalan & Jambatan,KPM,Johor,"RM4,629,000.00",2023-07-17,2026-05-16,100.0,65.8,56.5,Lewat,2615400.0
+MP2023-00336,Projek Bekalan Air 336,Bekalan Air,KKDW,Pulau Pinang,"RM9,216,000.00",2024-08-18,2026-08-09,94.5,,73.6,Dalam Pelaksanaan,6783000.0
+MP2023-00337,Projek Jalan & Jambatan 337,Jalan & Jambatan,KPKT,Kedah,"RM856,000.00",2022-03-24,2025-02-12,100.0,76.9,65.1,Lewat,557300.0
+MP2023-00338,Projek Perumahan 338,Perumahan,MOF,Sarawak,"RM4,057,000.00",2022-12-25,2024-04-16,100.0,98.1,100.0,Dalam Pelaksanaan,4057000.0
+MP2023-00339,Projek Klinik/Hospital 339,Klinik/Hospital,KKDW,WP Kuala Lumpur,"RM5,236,000.00",2023-07-25,2024-10-03,100.0,80.5,62.4,Dalam Pelaksanaan,3267300.0
+MP2023-00340,Projek Klinik/Hospital 340,Klinik/Hospital,MOF,Sarawak,"RM5,391,000.00",2023-04-26,2025-12-04,100.0,78.1,83.1,Lewat,4479900.0
+MP2023-00341,Projek Sekolah 341,Sekolah,KKDW,Selangor,"RM6,711,000.00",2022-01-07,2025-01-10,100.0,72.9,61.0,Lewat,4093700.0
+MP2023-00342,Projek Sekolah 342,Sekolah,KKDW,Sarawak,"RM1,397,000.00",2022-04-13,2024-06-03,100.0,87.6,76.4,Dalam Pelaksanaan,1067300.0
+MP2023-00343,Projek Klinik/Hospital 343,Klinik/Hospital,MOF,TERENGGANU,"RM14,660,000.00",2023-03-28,2025-10-10,100.0,95.9,91.5,Dalam Pelaksanaan,13413900.0
+MP2023-00344,Projek Klinik/Hospital 344,Klinik/Hospital,KKR,Kelantan,"RM6,008,000.00",2024-04-06,2025-10-06,100.0,94.3,89.1,Dalam Pelaksanaan,5353100.0
+MP2023-00345,Projek Bekalan Air 345,Bekalan Air,KKM,Kelantan ,"RM6,613,000.00",2023-09-06,2026-02-16,100.0,85.8,86.9,Dalam Pelaksanaan,5746700.0
+MP2023-00346,Projek Perumahan 346,Perumahan,KPM,Melaka,"RM2,376,000.00",2022-10-14,2023-09-22,100.0,53.6,45.0,Lewat,1069200.0
+MP2023-00347,Projek Kemudahan Awam 347,Kemudahan Awam,KPWKM,Melaka,"RM4,698,000.00",2024-03-13,2026-02-17,100.0,85.1,73.9,Dalam Pelaksanaan,3471800.0
+MP2023-00348,Projek Jalan & Jambatan 348,Jalan & Jambatan,KKDW,Johor ,"RM13,222,000.00",2024-06-07,2026-10-19,87.2,56.6,52.0,Lewat,6875400.0
+MP2023-00349,Projek Kemudahan Awam 349,Kemudahan Awam,KKM,Melaka,"RM3,939,000.00",2022-10-18,2024-04-12,100.0,85.1,74.6,Dalam Pelaksanaan,2938500.0
+MP2023-00350,Projek Bekalan Air 350,Bekalan Air,KPKT,Sabah,"RM4,760,000.00",2024-07-07,2025-09-13,100.0,89.6,77.6,Dalam Pelaksanaan,3693800.0
+MP2023-00351,Projek Jalan & Jambatan 351,Jalan & Jambatan,KDN,Perak,"RM5,310,000.00",2022-08-21,2023-02-25,100.0,82.2,78.9,Dalam Pelaksanaan,4189600.0
+MP2023-00352,Projek Kemudahan Awam 352,Kemudahan Awam,KKM,WP Kuala Lumpur,"RM918,000.00",2023-07-31,2025-03-25,100.0,,66.8,Lewat,613200.0
+MP2023-00353,Projek Kemudahan Awam 353,Kemudahan Awam,KPWKM,Selangor,"RM3,418,000.00",2022-11-28,2024-04-27,100.0,64.1,53.4,Lewat,1825200.0
+MP2023-00354,Projek Sekolah 354,Sekolah,KPWKM,Sabah,"RM7,450,000.00",2023-12-21,2026-02-15,100.0,94.7,86.3,Dalam Pelaksanaan,6429400.0
+MP2023-00355,Projek Sekolah 355,Sekolah,KPKT,Perlis,"RM2,572,000.00",2022-03-01,2023-08-07,100.0,72.4,59.8,Lewat,1538100.0
+MP2023-00356,Projek Sekolah 356,Sekolah,KPWKM,Kelantan,"RM3,844,000.00",2022-02-23,2024-06-08,100.0,96.3,86.5,Dalam Pelaksanaan,3325100.0
+MP2023-00357,Projek Perumahan 357,Perumahan,KPKT,Pulau Pinang,"RM3,877,000.00",2024-07-20,2025-03-31,100.0,85.5,81.9,Dalam Pelaksanaan,3175300.0
+MP2023-00358,Projek Kemudahan Awam 358,Kemudahan Awam,KPWKM,Pahang,"RM963,000.00",2022-06-26,2025-06-21,100.0,83.1,79.1,Dalam Pelaksanaan,761700.0
+MP2023-00359,Projek Sekolah 359,Sekolah,KPKT,Selangor,"RM8,235,000.00",2024-05-30,2025-02-11,100.0,95.2,85.9,Dalam Pelaksanaan,7073900.0
+MP2023-00360,Projek Klinik/Hospital 360,Klinik/Hospital,KPKT,Sarawak,"RM1,180,000.00",2023-10-30,2025-03-20,100.0,91.7,77.1,Dalam Pelaksanaan,909800.0
+MP2023-00361,Projek Perumahan 361,Perumahan,KKDW,Pahang,"RM5,841,000.00",2023-08-26,2024-10-21,100.0,87.2,78.2,Dalam Pelaksanaan,4567700.0
+MP2023-00362,Projek Sekolah 362,Sekolah,KPM,WP Kuala Lumpur,"RM3,540,000.00",2023-12-28,2026-06-28,100.0,82.7,77.1,Dalam Pelaksanaan,2729300.0
+MP2023-00363,Projek Perumahan 363,Perumahan,KDN,Terengganu,"RM2,937,000.00",2022-03-16,2023-12-10,100.0,99.4,91.2,Dalam Pelaksanaan,2678500.0
+MP2023-00364,Projek Sekolah 364,Sekolah,MOF,Terengganu,"RM4,240,000.00",2022-02-20,2024-07-09,100.0,,83.2,Dalam Pelaksanaan,3527700.0
+MP2023-00365,Projek Kemudahan Awam 365,Kemudahan Awam,KPM,WP Kuala Lumpur,"RM7,868,000.00",2022-03-25,2024-09-02,100.0,83.5,68.7,Dalam Pelaksanaan,5405300.0
+MP2023-00366,Projek Jalan & Jambatan 366,Jalan & Jambatan,KKM,Kelantan,"RM8,303,000.00",21/01/2022,2024-03-06,100.0,84.2,67.8,Dalam Pelaksanaan,5629400.0
+MP2023-00367,Projek Kemudahan Awam 367,Kemudahan Awam,KKM,Perak,"RM2,711,000.00",2024-07-21,2026-07-12,98.3,87.3,69.4,Dalam Pelaksanaan,1881400.0
+MP2023-00368,Projek Perumahan 368,Perumahan,KDN,Sabah,"RM3,443,000.00",2023-03-24,2025-01-01,100.0,75.4,62.2,Lewat,2141500.0
+MP2023-00369,Projek Sekolah 369,Sekolah,KPWKM,Sabah,"RM1,842,000.00",2022-05-05,2024-03-12,100.0,77.6,73.8,Lewat,1359400.0
+MP2023-00370,Projek Perumahan 370,Perumahan,KKDW,WP Kuala Lumpur,"RM1,072,000.00",2022-11-12,2025-04-23,100.0,,64.8,Lewat,694700.0
+MP2023-00371,Projek Bekalan Air 371,Bekalan Air,KPKT,Selangor,"RM9,396,000.00",2022-05-26,2024-11-23,100.0,87.9,82.4,Dalam Pelaksanaan,7742300.0
+MP2023-00372,Projek Klinik/Hospital 372,Klinik/Hospital,KDN,Kelantan,"RM1,487,000.00",2024-06-23,2026-02-12,100.0,81.1,70.6,Dalam Pelaksanaan,1049800.0
+MP2023-00373,Projek Perumahan 373,Perumahan,KPWKM,Kelantan,"RM2,060,000.00",2024-02-25,2026-10-12,89.2,81.6,65.7,Dalam Pelaksanaan,1353400.0
+MP2023-00374,Projek Perumahan 374,Perumahan,KKR,Melaka,"RM5,618,000.00",2022-01-08,2022-07-25,100.0,99.1,100.0,Dalam Pelaksanaan,5618000.0
+MP2023-00375,Projek Jalan & Jambatan 375,Jalan & Jambatan,MOF,Pahang,"RM1,187,000.00",2022-10-29,2024-06-04,100.0,87.3,77.0,Dalam Pelaksanaan,914000.0
+MP2023-00376,Projek Sekolah 376,Sekolah,KPM,Kedah,"RM6,151,000.00",2023-10-19,2026-01-08,100.0,84.8,75.4,Dalam Pelaksanaan,4637900.0
+MP2023-00377,Projek Bekalan Air 377,Bekalan Air,KKDW,Johor,"RM1,868,000.00",2023-02-16,2025-02-23,100.0,79.2,69.7,Lewat,1302000.0
+MP2023-00378,Projek Klinik/Hospital 378,Klinik/Hospital,KPWKM,Sabah,"RM1,436,000.00",2022-08-12,2024-02-17,100.0,78.7,66.9,Lewat,960700.0
+MP2023-00379,Projek Sekolah 379,Sekolah,KDN,WP Kuala Lumpur,"RM2,368,000.00",2023-02-15,2025-12-08,100.0,100.0,97.4,Siap,2306400.0
+MP2023-00380,Projek Bekalan Air 380,Bekalan Air,KKR,WP Kuala Lumpur,"RM1,856,000.00",2023-03-03,2023-10-29,100.0,92.6,79.1,Dalam Pelaksanaan,1468100.0
+MP2023-00381,Projek Jalan & Jambatan 381,Jalan & Jambatan,KKR,Perak,"RM4,938,000.00",2023-12-02,2024-08-11,100.0,80.9,71.1,Dalam Pelaksanaan,3510900.0
+MP2023-00382,Projek Kemudahan Awam 382,Kemudahan Awam,KDN,Kelantan,"RM14,308,000.00",2023-07-09,2025-03-09,100.0,87.7,81.1,Dalam Pelaksanaan,11603800.0
+MP2023-00383,Projek Bekalan Air 383,Bekalan Air,KPWKM,Perak,"RM7,324,000.00",2023-04-18,2025-04-27,100.0,78.7,70.7,Lewat,5178100.0
+MP2023-00384,Projek Jalan & Jambatan 384,Jalan & Jambatan,KKR,Sarawak,"RM6,067,000.00",2023-09-07,2025-03-17,100.0,62.0,56.7,Lewat,3440000.0
+MP2023-00385,Projek Klinik/Hospital 385,Klinik/Hospital,KPWKM,Kedah,"RM2,295,000.00",2024-03-23,2026-09-03,92.7,81.4,73.0,Dalam Pelaksanaan,1675400.0
+MP2023-00386,Projek Perumahan 386,Perumahan,KDN,Johor,"RM3,214,000.00",2022-04-03,2024-05-14,100.0,86.9,75.6,Dalam Pelaksanaan,2429800.0
+MP2023-00387,Projek Bekalan Air 387,Bekalan Air,KKDW,Terengganu,"RM4,339,000.00",2023-05-11,2024-12-04,100.0,87.4,87.2,Dalam Pelaksanaan,3783600.0
+MP2023-00388,Projek Bekalan Air 388,Bekalan Air,KPKT,Selangor,"RM3,729,000.00",2024-01-27,2025-04-15,100.0,66.8,61.0,Lewat,2274700.0
+MP2023-00389,Projek Bekalan Air 389,Bekalan Air,KKR,Pahang,"RM4,467,000.00",2022-10-18,2025-03-05,100.0,,90.0,Dalam Pelaksanaan,4020300.0
+MP2023-00390,Projek Jalan & Jambatan 390,Jalan & Jambatan,KKM,Terengganu,"RM1,330,000.00",2024-05-17,2026-02-07,100.0,93.6,86.0,Dalam Pelaksanaan,1143800.0
+MP2023-00391,Projek Klinik/Hospital 391,Klinik/Hospital,KPM,Melaka,"RM19,105,000.00",2022-07-14,2025-02-20,100.0,84.4,78.2,Dalam Pelaksanaan,14940100.0
+MP2023-00392,Projek Klinik/Hospital 392,Klinik/Hospital,KKM,Negeri Sembilan,"RM1,163,000.00",2022-02-04,2023-02-07,100.0,59.5,62.2,Lewat,723400.0
+MP2023-00393,Projek Kemudahan Awam 393,Kemudahan Awam,KKDW,Pahang,"RM3,380,000.00",2024-01-26,2026-06-27,100.0,81.5,70.9,Dalam Pelaksanaan,2396400.0
+MP2023-00394,Projek Bekalan Air 394,Bekalan Air,KPM,Selangor,"RM8,104,000.00",2024-02-03,2026-05-11,100.0,79.8,64.8,Lewat,5251400.0
+MP2023-00395,Projek Sekolah 395,Sekolah,KKR,Perak,"RM1,965,000.00",2022-08-08,2024-06-11,100.0,97.4,93.7,Dalam Pelaksanaan,1841200.0
+MP2023-00396,Projek Kemudahan Awam 396,Kemudahan Awam,KDN,Kedah,"RM9,882,000.00",2024-09-20,2027-08-11,61.4,49.3,40.5,Dalam Pelaksanaan,4002200.0
+MP2023-00397,Projek Sekolah 397,Sekolah,KKDW,Pulau Pinang,"RM1,077,000.00",2023-09-01,2025-12-25,100.0,99.1,95.4,Dalam Pelaksanaan,1027500.0
+MP2023-00398,Projek Kemudahan Awam 398,Kemudahan Awam,KPWKM,Johor,"RM1,962,000.00",2022-02-06,2024-12-04,100.0,69.5,60.5,Lewat,1187000.0
+MP2023-00399,Projek Klinik/Hospital 399,Klinik/Hospital,KKDW,Perak,"RM461,000.00",2023-08-25,2025-12-04,100.0,84.7,78.1,Dalam Pelaksanaan,360000.0
+MP2024-00400,Projek Kemudahan Awam 400,Kemudahan Awam,KKM,WP Kuala Lumpur,"RM9,690,000.00",2022-12-16,2024-03-07,100.0,79.5,65.1,Lewat,6308200.0
+MP2024-00401,Projek Perumahan 401,Perumahan,MOF,Melaka,"RM1,303,000.00",2024-08-21,2026-02-04,100.0,89.4,84.9,Dalam Pelaksanaan,1106200.0
+MP2024-00402,Projek Perumahan 402,Perumahan,KPWKM,JOHOR,"RM2,044,000.00",2022-10-02,2025-06-22,100.0,100.0,88.3,Siap,1804900.0
+MP2024-00403,Projek Bekalan Air 403,Bekalan Air,MOF,Kedah,"RM7,579,000.00",2022-03-31,2022-10-16,100.0,76.0,72.4,Lewat,5487200.0
+MP2024-00404,Projek Jalan & Jambatan 404,Jalan & Jambatan,KPKT,WP Kuala Lumpur,"RM5,175,000.00",2024-05-26,2027-03-13,74.9,64.7,60.1,Dalam Pelaksanaan,3110200.0
+MP2024-00405,Projek Sekolah 405,Sekolah,KKDW,Kedah,"RM9,882,000.00",2022-07-27,2025-06-14,100.0,78.2,69.7,Lewat,6887800.0
+MP2024-00406,Projek Kemudahan Awam 406,Kemudahan Awam,KKR,Melaka,"RM6,784,000.00",2022-11-24,2025-07-03,100.0,87.1,89.0,Dalam Pelaksanaan,6037800.0
+MP2024-00407,Projek Perumahan 407,Perumahan,MOF,PULAU PINANG,"RM8,442,000.00",2023-10-24,2025-06-25,100.0,79.4,76.8,Lewat,6483500.0
+MP2024-00408,Projek Klinik/Hospital 408,Klinik/Hospital,KKM,Sarawak,"RM2,455,000.00",2022-11-25,2025-02-14,100.0,82.3,69.5,Dalam Pelaksanaan,1706200.0
+MP2024-00409,Projek Perumahan 409,Perumahan,KKDW,Sarawak,"RM3,500,000.00",2022-11-27,2024-02-24,100.0,92.1,88.3,Dalam Pelaksanaan,3090500.0
+MP2024-00410,Projek Bekalan Air 410,Bekalan Air,KKR,Sabah,"RM7,347,000.00",2023-05-11,2024-04-21,100.0,92.6,92.8,Dalam Pelaksanaan,6818000.0
+MP2024-00411,Projek Perumahan 411,Perumahan,KKDW,Kedah,"RM7,435,000.00",2022-05-09,2023-06-23,100.0,73.2,73.9,Lewat,5494500.0
+MP2024-00412,Projek Bekalan Air 412,Bekalan Air,KPWKM,Terengganu,"RM8,845,000.00",2023-06-27,2026-03-26,100.0,96.4,88.1,Dalam Pelaksanaan,7792400.0
+MP2024-00413,Projek Jalan & Jambatan 413,Jalan & Jambatan,KPKT,Perlis,"RM1,895,000.00",2024-06-14,2025-12-13,100.0,,52.5,Lewat,994900.0
+MP2024-00414,Projek Klinik/Hospital 414,Klinik/Hospital,KKM,Pulau Pinang,"RM1,407,000.00",2024-09-20,2027-01-06,77.3,66.5,58.4,Dalam Pelaksanaan,821700.0
+MP2024-00415,Projek Sekolah 415,Sekolah,KDN,Sarawak,"RM1,220,000.00",2024-01-02,2025-12-13,100.0,,100.0,Dalam Pelaksanaan,1220000.0
+MP2024-00416,Projek Kemudahan Awam 416,Kemudahan Awam,MOF,Johor,"RM2,465,000.00",2023-08-17,2026-08-10,96.2,62.5,59.5,Lewat,1466700.0
+MP2024-00417,Projek Kemudahan Awam 417,Kemudahan Awam,KPM,Johor,"RM3,445,000.00",2022-08-11,2024-05-28,100.0,85.4,82.3,Dalam Pelaksanaan,2835200.0
+MP2024-00418,Projek Sekolah 418,Sekolah,MOF,Kelantan,"RM1,289,000.00",2024-05-22,2025-12-30,100.0,92.0,79.7,Dalam Pelaksanaan,1027300.0
+MP2024-00419,Projek Kemudahan Awam 419,Kemudahan Awam,KPM,Selangor,"RM3,197,000.00",2022-04-06,2023-09-19,100.0,49.9,36.9,Lewat,1179700.0
+MP2024-00420,Projek Sekolah 420,Sekolah,KKDW,Terengganu,"RM6,659,000.00",2023-12-12,2026-02-18,100.0,100.0,88.3,Siap,5879900.0
+MP2024-00421,Projek Sekolah 421,Sekolah,KPWKM,Kelantan,"RM9,186,000.00",2024-04-22,2024-12-29,100.0,87.4,91.7,Dalam Pelaksanaan,8423600.0
+MP2024-00422,Projek Sekolah 422,Sekolah,KDN,Kelantan,"RM2,223,000.00",2023-04-10,2026-03-12,100.0,97.6,84.8,Dalam Pelaksanaan,1885100.0
+MP2024-00423,Projek Bekalan Air 423,Bekalan Air,KPWKM,Selangor,"RM6,288,000.00",2023-07-24,2026-07-10,99.1,63.3,48.4,Lewat,3043400.0
+MP2024-00424,Projek Sekolah 424,Sekolah,MOF,Selangor ,"RM1,196,000.00",2024-03-22,2024-12-19,100.0,77.7,74.8,Lewat,894600.0
+MP2024-00425,Projek Sekolah 425,Sekolah,KKR,Pulau Pinang,"RM2,082,000.00",2024-07-18,2025-01-28,100.0,60.2,50.8,Lewat,1057700.0
+MP2024-00426,Projek Perumahan 426,Perumahan,KDN,Terengganu,"RM4,151,000.00",2022-02-02,2024-10-18,100.0,,89.7,Dalam Pelaksanaan,3723400.0
+MP2024-00427,Projek Klinik/Hospital 427,Klinik/Hospital,MOF,Pulau Pinang,"RM2,109,000.00",2023-06-02,2026-03-24,100.0,80.1,74.9,Dalam Pelaksanaan,1579600.0
+MP2024-00428,Projek Perumahan 428,Perumahan,KKR,Perak,"RM1,871,000.00",2023-02-14,2024-10-09,100.0,84.4,75.9,Dalam Pelaksanaan,1420100.0
+MP2024-00429,Projek Jalan & Jambatan 429,Jalan & Jambatan,KDN,Kedah,"RM4,801,000.00",2022-08-19,2023-03-16,100.0,71.1,68.2,Lewat,3274300.0
+MP2024-00430,Projek Jalan & Jambatan 430,Jalan & Jambatan,KKR,Pahang,"RM1,545,000.00",2024-05-14,2025-02-12,100.0,80.8,72.2,Dalam Pelaksanaan,1115500.0
+MP2024-00431,Projek Sekolah 431,Sekolah,KPM,Terengganu,"RM4,166,000.00",2022-05-14,2024-02-17,100.0,82.2,75.3,Dalam Pelaksanaan,3137000.0
+MP2024-00432,Projek Klinik/Hospital 432,Klinik/Hospital,KKM,Sarawak,"RM3,423,000.00",2022-12-03,2025-10-18,100.0,99.7,90.4,Dalam Pelaksanaan,3094400.0
+MP2024-00433,Projek Sekolah 433,Sekolah,KDN,PAHANG,"RM5,957,000.00",2023-02-22,2025-08-12,100.0,89.3,70.3,Dalam Pelaksanaan,4187800.0
+MP2024-00434,Projek Klinik/Hospital 434,Klinik/Hospital,KKDW,WP Kuala Lumpur,"RM7,432,000.00",2022-08-15,2023-03-10,100.0,87.2,85.8,Dalam Pelaksanaan,6376700.0
+MP2024-00435,Projek Kemudahan Awam 435,Kemudahan Awam,KPM,Pahang,"RM4,247,000.00",2023-11-16,2026-01-14,100.0,79.1,64.3,Lewat,2730800.0
+MP2024-00436,Projek Klinik/Hospital 436,Klinik/Hospital,KPKT,JOHOR,"RM2,408,000.00",2023-10-02,2026-04-14,100.0,92.5,84.2,Dalam Pelaksanaan,2027500.0
+MP2024-00437,Projek Bekalan Air 437,Bekalan Air,KDN,Terengganu,"RM9,326,000.00",2022-01-05,2024-04-13,100.0,60.4,52.6,Lewat,4905500.0
+MP2024-00438,Projek Perumahan 438,Perumahan,,Selangor,"RM4,493,000.00",05/06/2022,2024-01-07,100.0,86.1,91.0,Dalam Pelaksanaan,4088600.0
+MP2024-00439,Projek Sekolah 439,Sekolah,KKM,Melaka,"RM1,704,000.00",2023-01-31,2023-10-27,100.0,89.7,76.1,Dalam Pelaksanaan,1296700.0
+MP2024-00440,Projek Jalan & Jambatan 440,Jalan & Jambatan,KDN,Perlis,"RM4,394,000.00",2024-05-30,2026-09-30,89.2,78.9,78.1,Dalam Pelaksanaan,3431700.0
+MP2024-00441,Projek Klinik/Hospital 441,Klinik/Hospital,KPM,Selangor,"RM2,168,000.00",2023-02-08,2025-10-09,100.0,73.4,71.3,Lewat,1545800.0
+MP2024-00442,Projek Bekalan Air 442,Bekalan Air,KKM,Kedah,"RM388,000.00",2023-03-02,2025-01-12,100.0,84.8,78.7,Dalam Pelaksanaan,305400.0
+MP2024-00443,Projek Klinik/Hospital 443,Klinik/Hospital,KKM,Melaka,"RM1,587,000.00",03/11/2023,2025-12-19,100.0,83.1,77.3,Dalam Pelaksanaan,1226800.0
+MP2024-00444,Projek Jalan & Jambatan 444,Jalan & Jambatan,KKDW,Johor,"RM2,674,000.00",2024-02-28,2024-11-26,100.0,79.8,77.2,Lewat,2064300.0
+MP2024-00445,Projek Bekalan Air 445,Bekalan Air,KKDW,Terengganu,"RM2,490,000.00",2022-07-14,2025-05-25,100.0,88.7,72.2,Dalam Pelaksanaan,1797800.0
+MP2024-00446,Projek Kemudahan Awam 446,Kemudahan Awam,KPKT,Kedah,"RM942,000.00",2023-11-02,2025-03-24,100.0,57.6,45.8,Lewat,431400.0
+MP2024-00447,Projek Bekalan Air 447,Bekalan Air,KKDW,Negeri Sembilan,"RM2,745,000.00",2024-05-26,2027-05-26,69.9,59.1,36.9,Dalam Pelaksanaan,1012900.0
+MP2024-00448,Projek Kemudahan Awam 448,Kemudahan Awam,KPWKM,Selangor,"RM5,520,000.00",2024-06-08,2025-04-25,100.0,82.6,79.2,Dalam Pelaksanaan,4371800.0
+MP2024-00449,Projek Klinik/Hospital 449,Klinik/Hospital,KKM,TERENGGANU,"RM1,348,000.00",2022-11-22,2025-04-14,100.0,87.2,84.1,Dalam Pelaksanaan,1133700.0
+MP2024-00450,Projek Klinik/Hospital 450,Klinik/Hospital,KPKT,Pulau Pinang,"RM4,736,000.00",2024-02-08,2026-06-28,100.0,85.7,66.1,Dalam Pelaksanaan,3130500.0
+MP2024-00451,Projek Sekolah 451,Sekolah,KPWKM,Johor,"RM607,000.00",2024-04-06,2026-10-13,88.6,70.2,69.9,Dalam Pelaksanaan,424300.0
+MP2024-00452,Projek Bekalan Air 452,Bekalan Air,KKM,WP Kuala Lumpur,"RM5,922,000.00",2022-06-02,2023-08-04,100.0,88.4,78.8,Dalam Pelaksanaan,4666500.0
+MP2024-00453,Projek Bekalan Air 453,Bekalan Air,KPKT,Perlis,"RM2,257,000.00",2024-04-07,2027-03-07,76.5,51.0,44.9,Lewat,1013400.0
+MP2024-00454,Projek Jalan & Jambatan 454,Jalan & Jambatan,KPM,Johor,"RM1,125,000.00",2024-07-15,2026-01-23,100.0,91.4,85.0,Dalam Pelaksanaan,956200.0
+MP2024-00455,Projek Kemudahan Awam 455,Kemudahan Awam,KPKT,Sarawak,"RM10,186,000.00",2024-06-03,2026-09-22,90.0,83.1,83.7,Dalam Pelaksanaan,8525700.0
+MP2024-00456,Projek Jalan & Jambatan 456,Jalan & Jambatan,MOF,Pahang,"RM5,706,000.00",2024-05-21,2025-01-31,100.0,80.0,76.1,Dalam Pelaksanaan,4342300.0
+MP2024-00457,Projek Bekalan Air 457,Bekalan Air,KPWKM,Negeri Sembilan ,"RM8,819,000.00",2022-09-16,2024-09-27,100.0,94.0,74.3,Dalam Pelaksanaan,6552500.0
+MP2024-00458,Projek Sekolah 458,Sekolah,MOF,Johor,"RM4,959,000.00",2023-05-14,2024-07-01,100.0,89.4,80.5,Dalam Pelaksanaan,3992000.0
+MP2024-00459,Projek Kemudahan Awam 459,Kemudahan Awam,KPWKM,Johor,"RM5,125,000.00",2024-04-19,2026-02-12,100.0,97.9,80.9,Dalam Pelaksanaan,4146100.0
+MP2024-00460,Projek Bekalan Air 460,Bekalan Air,KKDW,WP Kuala Lumpur,"RM2,655,000.00",2022-03-30,2024-08-04,100.0,91.3,87.1,Dalam Pelaksanaan,2312500.0
+MP2024-00461,Projek Jalan & Jambatan 461,Jalan & Jambatan,MOF,Pahang,"RM5,480,000.00",2022-08-19,2024-06-10,100.0,87.6,78.8,Dalam Pelaksanaan,4318200.0
+MP2024-00462,Projek Jalan & Jambatan 462,Jalan & Jambatan,MOF,Pahang,"RM3,476,000.00",2022-07-27,2023-03-28,100.0,79.7,67.8,Lewat,2356700.0
+MP2024-00463,Projek Sekolah 463,Sekolah,KKR,PERLIS,"RM2,110,000.00",2023-02-04,2025-03-13,100.0,87.9,76.1,Dalam Pelaksanaan,1605700.0
+MP2024-00464,Projek Perumahan 464,Perumahan,KPM,Perak,"RM3,161,000.00",2022-04-25,2023-09-18,100.0,90.0,83.1,Dalam Pelaksanaan,2626800.0
+MP2024-00465,Projek Kemudahan Awam 465,Kemudahan Awam,MOF,Johor,"RM1,191,000.00",2022-06-27,2024-07-20,100.0,64.2,55.8,Lewat,664600.0
+MP2024-00466,Projek Bekalan Air 466,Bekalan Air,KKDW,Selangor,"RM3,658,000.00",2024-09-12,2026-12-02,80.9,57.7,43.1,Lewat,1576600.0
+MP2024-00467,Projek Bekalan Air 467,Bekalan Air,KPM,Kelantan,"RM5,557,000.00",2023-04-30,2023-10-28,100.0,71.3,61.3,Lewat,3406400.0
+MP2024-00468,Projek Bekalan Air 468,Bekalan Air,KDN,Pulau Pinang,"RM4,185,000.00",2024-03-26,2025-06-05,100.0,94.7,97.3,Dalam Pelaksanaan,4072000.0
+MP2024-00469,Projek Klinik/Hospital 469,Klinik/Hospital,KKR,Pulau Pinang ,"RM6,228,000.00",2022-03-17,2023-01-28,100.0,100.0,95.6,Siap,5954000.0
+MP2024-00470,Projek Bekalan Air 470,Bekalan Air,KKDW,Kelantan,"RM2,832,000.00",2022-02-20,2024-05-16,100.0,89.5,88.1,Dalam Pelaksanaan,2495000.0
+MP2024-00471,Projek Klinik/Hospital 471,Klinik/Hospital,KPWKM,Pulau Pinang,"RM3,854,000.00",2024-08-14,2026-02-28,100.0,63.9,66.0,Lewat,2543600.0
+MP2024-00472,Projek Klinik/Hospital 472,Klinik/Hospital,KKR,Kelantan,"RM3,838,000.00",2024-08-19,2025-05-17,100.0,79.8,66.9,Lewat,2567600.0
+MP2024-00473,Projek Sekolah 473,Sekolah,KPM,SABAH,"RM21,086,000.00",2022-01-13,2023-04-02,100.0,,52.5,Lewat,11070200.0
+MP2024-00474,Projek Perumahan 474,Perumahan,KPWKM,Sarawak,"RM1,166,000.00",2022-09-02,2025-07-27,100.0,85.3,81.9,Dalam Pelaksanaan,955000.0
+MP2024-00475,Projek Perumahan 475,Perumahan,KPWKM,Negeri Sembilan,"RM22,829,000.00",2023-05-12,2025-07-20,100.0,86.8,80.7,Dalam Pelaksanaan,18423000.0
+MP2024-00476,Projek Perumahan 476,Perumahan,KKR,Sabah,"RM1,949,000.00",2023-10-05,2025-03-31,100.0,89.4,69.5,Dalam Pelaksanaan,1354600.0
+MP2024-00477,Projek Klinik/Hospital 477,Klinik/Hospital,KPKT,Perlis,"RM2,772,000.00",2024-04-18,2027-04-14,73.6,69.2,62.1,Dalam Pelaksanaan,1721400.0
+MP2024-00478,Projek Klinik/Hospital 478,Klinik/Hospital,KPKT,Negeri Sembilan,"RM4,801,000.00",2022-01-10,2024-03-19,100.0,84.3,76.8,Dalam Pelaksanaan,3687200.0
+MP2024-00479,Projek Klinik/Hospital 479,Klinik/Hospital,MOF,Sabah,"RM6,291,000.00",2022-05-13,2023-07-11,100.0,53.3,43.4,Lewat,2730300.0
+MP2024-00480,Projek Bekalan Air 480,Bekalan Air,KKDW,Johor,"RM3,657,000.00",2022-01-23,2022-12-15,100.0,83.7,67.8,Dalam Pelaksanaan,2479400.0
+MP2024-00481,Projek Perumahan 481,Perumahan,KDN,Pulau Pinang,"RM4,570,000.00",2023-08-21,2026-03-03,100.0,87.2,76.1,Dalam Pelaksanaan,3477800.0
+MP2024-00482,Projek Jalan & Jambatan 482,Jalan & Jambatan,KPM,Negeri Sembilan,"RM13,018,000.00",2023-06-25,2024-10-01,100.0,66.8,52.3,Lewat,6808400.0
+MP2024-00483,Projek Kemudahan Awam 483,Kemudahan Awam,KPKT,Sarawak,"RM38,307,000.00",2023-06-16,2024-11-18,100.0,99.1,96.8,Dalam Pelaksanaan,37081200.0
+MP2024-00484,Projek Kemudahan Awam 484,Kemudahan Awam,KPWKM,Melaka,"RM5,415,000.00",2022-07-21,2023-09-06,100.0,87.9,74.7,Dalam Pelaksanaan,4045000.0
+MP2024-00485,Projek Kemudahan Awam 485,Kemudahan Awam,KPWKM,Johor,"RM6,998,000.00",2024-01-28,2026-05-22,100.0,,77.4,Dalam Pelaksanaan,5416500.0
+MP2024-00486,Projek Sekolah 486,Sekolah,KPM,WP Kuala Lumpur,"RM3,439,000.00",2024-07-02,2025-05-11,100.0,95.2,91.9,Dalam Pelaksanaan,3160400.0
+MP2024-00487,Projek Klinik/Hospital 487,Klinik/Hospital,KKR,Sabah,"RM16,541,000.00",2023-11-30,2024-08-17,100.0,99.7,88.3,Dalam Pelaksanaan,14605700.0
+MP2024-00488,Projek Bekalan Air 488,Bekalan Air,KKR,Sabah,"RM3,398,000.00",2024-09-11,2026-08-30,91.5,66.1,42.8,Lewat,1454300.0
+MP2024-00489,Projek Jalan & Jambatan 489,Jalan & Jambatan,KKDW,Kelantan,"RM5,923,000.00",2024-04-05,2026-04-29,100.0,95.5,86.1,Dalam Pelaksanaan,5099700.0
+MP2024-00490,Projek Klinik/Hospital 490,Klinik/Hospital,KKR,Perlis,"RM1,481,000.00",2022-03-25,2024-04-29,100.0,100.0,85.7,Siap,1269200.0
+MP2024-00491,Projek Jalan & Jambatan 491,Jalan & Jambatan,,Pahang,"RM351,000.00",2024-03-04,2025-12-22,100.0,99.5,93.0,Dalam Pelaksanaan,326400.0
+MP2024-00492,Projek Jalan & Jambatan 492,Jalan & Jambatan,KPKT,Kelantan,"RM28,503,000.00",2023-09-11,2024-10-23,100.0,31.1,32.3,Lewat,9206500.0
+MP2024-00493,Projek Klinik/Hospital 493,Klinik/Hospital,KKDW,Perak,"RM9,757,000.00",2023-08-06,2026-03-05,100.0,70.0,58.6,Lewat,5717600.0
+MP2024-00494,Projek Sekolah 494,Sekolah,KKM,Pahang,"RM8,535,000.00",2022-07-20,2025-07-05,100.0,88.8,86.7,Dalam Pelaksanaan,7399800.0
+MP2024-00495,Projek Jalan & Jambatan 495,Jalan & Jambatan,KPKT,Kedah,"RM1,644,000.00",2022-12-16,2023-10-01,100.0,80.3,73.5,Dalam Pelaksanaan,1208300.0
+MP2024-00496,Projek Kemudahan Awam 496,Kemudahan Awam,KPKT,Selangor,"RM882,000.00",2022-12-23,2024-03-30,100.0,83.8,63.9,Dalam Pelaksanaan,563600.0
+MP2024-00497,Projek Jalan & Jambatan 497,Jalan & Jambatan,KKM,Kelantan,"RM3,052,000.00",2022-04-18,2024-02-06,100.0,77.5,80.2,Lewat,2447700.0
+MP2024-00498,Projek Sekolah 498,Sekolah,MOF,Perlis,"RM4,190,000.00",2022-11-30,2024-06-15,100.0,100.0,89.7,Siap,3758400.0
+MP2024-00499,Projek Sekolah 499,Sekolah,KPKT,Kedah,"RM7,177,000.00",2022-06-13,2025-02-11,100.0,73.7,62.5,Lewat,4485600.0
+MP2023-00304,Projek Jalan & Jambatan 304,Jalan & Jambatan,MOF,Pulau Pinang,"RM2,866,000.00",2023-07-12,2025-03-26,100.0,77.1,80.8,Lewat,2315700.0
+MP2023-00340,Projek Klinik/Hospital 340,Klinik/Hospital,MOF,Sarawak,"RM5,391,000.00",2023-04-26,2025-12-04,100.0,78.1,83.1,Lewat,4479900.0
+MP2022-00047,Projek Jalan & Jambatan 47,Jalan & Jambatan,KPKT,Kedah,"RM5,950,000.00",08/01/2024,2025-12-27,100.0,88.6,90.2,Dalam Pelaksanaan,5366900.0
+MP2022-00067,Projek Bekalan Air 67,Bekalan Air,MOF,SABAH,"RM13,252,000.00",2023-11-29,2026-11-11,87.6,65.9,52.8,Lewat,6997100.0
+MP2024-00479,Projek Klinik/Hospital 479,Klinik/Hospital,MOF,Sabah,"RM6,291,000.00",2022-05-13,2023-07-11,100.0,53.3,43.4,Lewat,2730300.0
+MP2024-00485,Projek Kemudahan Awam 485,Kemudahan Awam,KPWKM,Johor,"RM6,998,000.00",2024-01-28,2026-05-22,100.0,,77.4,Dalam Pelaksanaan,5416500.0
+MP2023-00310,Projek Jalan & Jambatan 310,Jalan & Jambatan,KKR,Selangor,"RM9,696,000.00",2022-12-31,2024-02-03,100.0,96.9,97.9,Dalam Pelaksanaan,9492400.0
+MP2022-00031,Projek Perumahan 31,Perumahan,,Perlis,"RM1,663,000.00",2022-07-20,2025-07-12,100.0,,88.2,Dalam Pelaksanaan,1466800.0
